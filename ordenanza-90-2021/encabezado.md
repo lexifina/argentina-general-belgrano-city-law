@@ -1,0 +1,12 @@
+Ordenanza Nº90/2021
+Ordenanza Nº 90/2021
+General Belgrano, 03/11/2021
+VISTO:
+El Decreto Nº 1794/2021 y su anexo 1 dictado por el Departamento Ejecutivo, y
+CONSIDERANDO:
+Que el Decreto mencionado dispuso incrementos salariales para el Intendente Municipal, Sres. Concejales y Secretario del HCD, conforme el detalle del Anexo 1.
+Que el acto administrativo se dictó Ad referéndum del Honorable Concejo Deliberante.
+Por ello, y
+Atento al despacho de las comisiones que fuera aprobado por unanimidad
+EL HONORABLE CONCEJO DELIBERANTE, EN USO DE LAS FACULTADES CONFERIDAS POR LA LEY ORGANICA DE LAS MUNICIPALIDADES, SANCIONA CON FUERZA DE:
+ORDENANZA
