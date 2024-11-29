@@ -1,0 +1,18 @@
+Ordenanza Nº43/2024
+Ordenanza Nº 43/2024
+General Belgrano, 03/07/2024
+El proyecto presentado por la Sra. Sowycz, Patricia, de puesta en valor del Museo de las Estancias en la Colonia El Salado, y
+CONSIDERANDO:
+Que dicho emprendimiento, si bien obedece a un proyecto y a su ejecución por parte de capitales privados, lo cierto es que resulta indispensable la participación del municipio, pues se requiere de un espacio público y asimismo de bienes muebles de dominio municipal, lo que amerita la autorización previa de este cuerpo.-
+Que la fracción del inmueble a otorgar en concesión, forma parte del patrimonio municipal, atento la Donación efectuada por la Provincia de Buenos Aires por Decreto 7049/1985 y el Acta traslativa de Dominio suscripta por el Gobernador Antonio Cafiero el 03/09/1988.
+Que la ejecución del proyecto demandará la inversión de una importante suma de dinero por parte de los particulares; lo que, sin perjuicio de los beneficios que éstos obtengan, nuestra ciudad se verá también beneficiada en cuanto a su ornamento, cantidad y calidad de servicios a brindarse tanto a nuestros vecinos como a los turistas que nos visiten.-
+Que conforme lo establece la normativa específica que rige en cuestiones de inmuebles propiedad de los municipios, Decreto Ley 9533/80, en su Capítulo IV hace referencia a las denominadas concesiones de uso, determinando en el art. 28º que: ”La concesión de uso, o cualquier otra modalidad administrativa que acuerde la tenencia de bienes del dominio privado del Estado, se regirá por las siguientes disposiciones: a) La tenencia será siempre precaria y como consecuencia el acto revocable en cualquier tiempo por decisión de la autoridad competente; b) El término de la tenencia no podrá exceder de cinco (5) años; c) El canon anual a cuyo pago estará obligado el tenedor se fijará en el acto administrativo respectivo y no podrá ser inferior al diez (10) por ciento de la valuación fiscal vigente en cada uno de los años de concesión… “
+Que sin perjuicio de ello, el art. 29º del mismo cuerpo legal, establece las excepciones al régimen descripto.-
+Que conforme se podrá apreciar del texto de la Ley Orgánica de las Municipalidades y del Decreto-Ley 9533/80, surgen claramente dos formas válidas de otorgar concesiones de uso sobre inmuebles del dominio privado del Municipio a los particulares: una de ellas es por el procedimiento de la licitación, la otra es en forma directa mediante un acto administrativo cubierto de las formalidades que establece la ley y que otorga la tenencia de inmuebles para su uso.-
+Que la concesión de uso en forma directa se realiza mediante la sanción de un acto administrativo, el que debe reunir los requisitos establecidos en el art. 28 del Decreto Ley 9533/80 y por lo tanto se puede establecer su limitación temporal (art. 32 Decreto Ley 9533/80), sumada la circunstancia que el mismo es revocable en cualquier tiempo por la autoridad competente.-
+Que la potestad de otorgar la mencionada concesión de uso requiere la previa autorización del Honorable Concejo Deliberante en los términos de los arts. 55, 56 y concordantes de la Ley Orgánica de las Municipalidades.-
+Que por lo expuesto en estos considerandos y los antecedentes obrantes en el expediente administrativo, se desprende que resulta aconsejable proceder a la concesión de uso en forma directa, tanto de la fracción del inmueble como de los muebles referidos
+Por ello, y
+Atento el despacho de las comisiones que fuera aprobado por Unanimidad:
+EL HONORABLE CONCEJO DELIBERANTE EN USO DE LAS FACULTADES CONFERIDAS POR LA LEY ORGANICA DE LAS MUNICIPALIDADES SANCIONA CON FUERZA DE:
+ORDENANZA
