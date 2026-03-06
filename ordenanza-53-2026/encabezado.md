@@ -1,0 +1,14 @@
+Ordenanza Nº53/2025
+Ordenanza Nº 53/2025
+General Belgrano, 19/11/2025
+VISTO:
+El expediente 4041-00011522/02025 donde se instituye por testamento como heredera universal bajo condición resolutoria a la Municipalidad de General Belgrano, y
+CONSIDERANDO:
+Que el 22 de agosto de 2003, Juan Dobos, nacido el 25 de abril de 1925 realiza un testamento instituyendo como única y universal heredera a su esposa Antonia Pérsico. Asimismo, en caso de que ésta no quisiere o no pudiere aceptar la herencia instituye como heredera universal a la Municipalidad del Partido de General Belgrano, provincia de Buenos Aires, con cargo y bajo la condición resolutoria de que el inmueble ubicado en Sección Quintas de esta ciudad, prolongación de Avenida Libertad, denominado “Vergel” Nomenclatura Catastral: Circunscripción: I Sección: G Chacra 76 Parcela: 4-c, sea conservado y dedicado a exposición pública de todos los bienes muebles allí existentes, los trabajos artísticos manuales realizados por el testador y su esposa, junto a la colección de mates de su creación. Que esta institución de herederos la efectúa deseando que la obra realizada con tesón, amor y profundo contenido espiritual se mantenga en poder del Municipio, para conocimiento y recreación de cuantos la visiten. Se acompaña copia de testamento.
+Que, por otra parte el 22 de agosto de 2003, Antonia Persico, nacida el 25 de octubre de 1929, realiza un testamento instituyendo como único y universal heredero a su esposo Juan Dobos. Asimismo, en caso de que éste no quisiere o no pudiere aceptar la herencia instituye como heredera universal a la Municipalidad del Partido de General Belgrano, provincia de Buenos Aires, con cargo y bajo la condición resolutoria de que el inmueble ubicado en Sección Quintas de esta ciudad, prolongación de Avenida Libertad, denominado “Vergel” Nomenclatura Catastral: Circunscripción: I Sección: G Chacra 76 Parcela: 4-c, sea conservado y dedicado a exposición pública de todos los bienes muebles allí existentes, la colección de mates y los demás trabajos artísticos manuales realizados por la testadora y su esposo. Que esta institución de herederos la efectúa deseando que la obra realizada con tesón, amor y profundo contenido espiritual se mantenga en poder del Municipio, para conocimiento y recreación de cuantos la visiten. Se acompaña copia de testamento.
+Que 21 de julio del año 2013 fallece Juan Dobos, y que el 5 de septiembre del año 2025 fallece Antonia Pérsico, tal como surge de los certificados de defunción adjuntos.
+Que correspondería aceptar la institución de heredera universal con cargo bajo condición resolutoria y posteriormente iniciar expediente sucesorio.
+Por ello, y
+Atento al despacho de las comisiones que fuera aprobado por unanimidad:
+EL HONORABLE CONCEJO DELIBERANTE, EN USO DE LAS FACULTADES CONFERIDAS POR LA LEY ORGANICA DE LAS MUNICIPALIDADES, SANCIONA CON FUERZA DE:
+ORDENANZA
