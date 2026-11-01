@@ -1,0 +1,2777 @@
+{
+ "country": "AR-B-GENERAL-BELGRANO",
+ "acts": [
+  {
+   "slug": "ordenanza-007-2018",
+   "short": "Ordenanza 007/2018",
+   "title": "Ordenanza 007/2018: Condonar la deuda que por la tasa de SUM, detenta el inmueble identificado catastralmente como: Circ. I Secc. G, Manz. 64K, Parc. 4, identificado bajo la cuenta Nº 883.000, del Pdo. de General Belgrano (036), hasta el 31",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/932/contents/1212012",
+   "versions": [
+    {
+     "from": "2018-05-27",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/932/contents/1212012",
+     "sha256": "7d1412d5e9e44c8b8b06d34466eff76e3b8f1b6c436af107ab8e409f8222b3f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-010-2018",
+   "short": "Ordenanza 010/2018",
+   "title": "Ordenanza 010/2018: Convalidar el Convenio N° 194/18, de fecha 6 de marzo de 2018, suscripto entre la Dirección Provincial del Registro de las Personas de la Provincia de Buenos Aires y la Municipalidad de General Belgrano, que propicia la ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/932/contents/1212016",
+   "versions": [
+    {
+     "from": "2018-05-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/932/contents/1212016",
+     "sha256": "3464a306bb2bc09abeaace45d43526d2e8280aa97831ca1dc32bb69aaf45e588"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-015-2018",
+   "short": "Ordenanza 015/2018",
+   "title": "Ordenanza 015/2018: Autorizase al Departamento Ejecutivo a aceptar la Donación realizada por el Sr. Roberto Arluna, D.N.I. N°12.625.490 de: una Heladera Marca “BRIKET” - Modelo C 3302, la cual será destinada para su uso en el Camping Munici",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/992/contents/1213354",
+   "versions": [
+    {
+     "from": "2018-06-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/992/contents/1213354",
+     "sha256": "b08e2d773ddf575f89a5d9ec06e278bc0d2db6a4b9aece4d9ed75078e8208475"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-21-2018",
+   "short": "Ordenanza 21/2018",
+   "title": "Ordenanza 21/2018: Condonar la deuda que por la tasa de SUM, detenta el inmueble identificado catastralmente como: Circ. I, Secc. D, Manz. 55A, Parc. 1C, identificado bajo la cuenta N°501.802, del Pdo. de General Belgrano (036), hasta el 3",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1074/contents/1221300",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1074/contents/1221300",
+     "sha256": "8ad3f954658df9332ac03670c96de7bb322378eeae4ebf1c43890c95575c83db"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-23-2018",
+   "short": "Ordenanza 23/2018",
+   "title": "Ordenanza 23/2018: Convalidar el Convenio N° 368/18, suscripto con fecha 7 de mayo de 2018, entre Asociación Civil Red de Acción Climática y la Municipalidad de General Belgrano, cuyo objetivo será formar parte de la Red Argentina de Munic",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1074/contents/1221304",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1074/contents/1221304",
+     "sha256": "ef9571edfdeb8e124e4f2fd2c5ee473c5a6e47d4c8bf5efb07d84a142f16380f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-41-2018",
+   "short": "Ordenanza 41/2018",
+   "title": "Ordenanza 41/2018: Convalidar el Decreto N° 1117/18, por el cual se establece un nuevo valor del Combo 1: Lata + 2 gaseosas, el cual se vende en la entrada del Cine Teatro Español, a partir del 16 de junio de 2018.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1140/contents/1229666",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1140/contents/1229666",
+     "sha256": "872ccc89f1efd80e06486dc1e7aeebe7e381946a88adf1aa409e5f166433d68e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-32-2018",
+   "short": "Ordenanza 32/2018",
+   "title": "Ordenanza 32/2018: Modificar el artículo primero de la Ordenanza 30/2005, que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1140/contents/1229796",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1140/contents/1229796",
+     "sha256": "b507566e225ccab8ae01576d288cf75447d7039197162edf2d892f35fe5978b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-33-2018",
+   "short": "Ordenanza 33/2018",
+   "title": "Ordenanza 33/2018: “Declarar la emergencia en materia de uso de servicios básicos (energía eléctrica, gas natural y agua corriente) en el ámbito de la Municipalidad de General Belgrano hasta el 31 de Diciembre de 2018”.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1140/contents/1229607",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1140/contents/1229607",
+     "sha256": "d4c007796384d162a7b17bc7fc68f7e95b1097d115da0c1d9a1a5cdd4140a139"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-39-2018",
+   "short": "Ordenanza 39/2018",
+   "title": "Ordenanza 39/2018: CREACIÓN. Crease el Centro de Día Municipal de General Belgrano.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1140/contents/1229659",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 18,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1140/contents/1229659",
+     "sha256": "f13988d8ce7f06f3d09f2a7061960f2da4ab9885c4e002fe150311bcc6cf1585"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-47-2018",
+   "short": "Ordenanza 47/2018",
+   "title": "Ordenanza 47/2018: Impleméntese una Campaña Integral de Seguridad Vial (CISVi) en el Distrito de General Belgrano.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1344/contents/1247103",
+   "versions": [
+    {
+     "from": "2018-09-29",
+     "units": 18,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1344/contents/1247103",
+     "sha256": "735ea95cfd4a79ee2f310892801e4aa9f15f4d5efb76506dcf9f51c9ecd3bc34"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-51-2018",
+   "short": "Ordenanza 51/2018",
+   "title": "Ordenanza 51/2018: Modificar los indicadores urbanísticos indicados por el “Código de Ordenamiento Territorial y Usos del Suelo de General Belgrano” -Ordenanza 59/2008-, para los inmuebles correspondientes a la nomenclatura catastral Circu",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1720/contents/1278246",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1720/contents/1278246",
+     "sha256": "454294654e36174f9e2e0ce0995db990c0afe73fe4a48be0bc7b8338676c0cf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-52-2018",
+   "short": "Ordenanza 52/2018",
+   "title": "Ordenanza 52/2018: Condonar la deuda que por la tasa de SUM, detenta el inmueble identificado catastralmente como: Circ. I, Secc. C, Manz. 9D, Parc. 19, identificado bajo la cuenta N°3498083, del Pdo. de General Belgrano (036), hasta el 31",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1720/contents/1278378",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1720/contents/1278378",
+     "sha256": "c4c6a89e07d9c16d86408b23eb5064f1486f129695042583b92e1e67b4efb055"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-53-2018",
+   "short": "Ordenanza 53/2018",
+   "title": "Ordenanza 53/2018: Condonar la deuda que por la tasa de SUM, detenta el inmueble identificado catastralmente como: Circ. I, Secc. C, Manz. 9A, Parc. 14, identificado bajo la cuenta N°3498018, del Pdo. de General Belgrano (036), hasta el 31",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1720/contents/1278385",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1720/contents/1278385",
+     "sha256": "fa30fe67f97288b2a73ad04c74597b3d05a42255ad908e00448ca46d9df0fa4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-62-2019",
+   "short": "Ordenanza 62/2019",
+   "title": "Ordenanza 62/2019: Convalidar el Convenio N° 678/18 de fecha 11 de septiembre de 2018, suscrito entre el Ministerio de Infraestructura y Servicios Públicos de la Pcia. de Buenos Aires y la Municipalidad de General Belgrano por el cual el M",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285041",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285041",
+     "sha256": "1e244fcd037c5a2e69f5b073721c15b2e2810c1613372ca7177aa6b49738a106"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-66-2019",
+   "short": "Ordenanza 66/2019",
+   "title": "Ordenanza 66/2019: Autorizar la firma del “Convenio de Control de Pesos y Dimensiones” de vehículos de transporte en las rutas provinciales dentro de la jurisdicción de General Belgrano, entre la Dirección de Vialidad de la Provincia de Bu",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285063",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285063",
+     "sha256": "9ffbad079e604bd99c6c8c054a8265fecff19c34a26a31cfa6e776c40d82ee8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-68-2019",
+   "short": "Ordenanza 68/2019",
+   "title": "Ordenanza 68/2019: Convalidar el Decreto Nº 1686/18, por el cual se establece un",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285115",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285115",
+     "sha256": "e87f74818b0ee2b0cd1e5c6f58ad46b4c0951ca893e839b322d0c8924c6ade73"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-69-2019",
+   "short": "Ordenanza 69/2019",
+   "title": "Ordenanza 69/2019: Convalidar el decreto Nº 345/18, dictado por el Departamento Ejecutivo, que crea una Bonificación Especial por Presentismo para el personal municipal de Planta Permanente y Temporaria.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285677",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285677",
+     "sha256": "d1ffee7e491d81d2fa7b4d8ce1fa35322b9256c9217fe05deb490196d4b77421"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-72-2019",
+   "short": "Ordenanza 72/2019",
+   "title": "Ordenanza 72/2019: Convalidar el Decreto Nº 1644/18, que otorga una Bonificación Especial por Presentismo al personal municipal de planta permanente y temporaria, denominada “Bonificación Especial” – Decreto Nº 1644/18.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285681",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285681",
+     "sha256": "28377dd77c6e53488a042b71ea2a71fcc4b3edbbc14d67d039f0bfa94a21eca3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-79-2019",
+   "short": "Ordenanza 79/2019",
+   "title": "Ordenanza 79/2019: Impóngase el nombre de Intendente Tomás Alberto Ciocca a la Plaza del Barrio Los Luises.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285692",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285692",
+     "sha256": "d2b98cfff30d9ae4e804927dfae967cb6e98191e38d4378b6beca000e0751013"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-83-2019",
+   "short": "Ordenanza 83/2019",
+   "title": "Ordenanza 83/2019: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por el Sr. Ricardo F. Doleschan, DNI N°12.435.522 de: un Televisor – Pantalla 21” – Modelo 20ZU – Marca “Audio Logic”, usado en buen estado, el cual ser",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285705",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285705",
+     "sha256": "e3e72ed3f572fcde5a24b9dd5551e1dea54b0b5c12e7a0ae03eadef787fc75a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-84-2019",
+   "short": "Ordenanza 84/2019",
+   "title": "Ordenanza 84/2019: Autorizar al Departamento Ejecutivo a entregar como parte de pago por la compra de un tractor, las motoniveladoras John Deere identificadas con los N° de inventario 4330 y 9084, tal como lo establece el Artículo 161° de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285709",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285709",
+     "sha256": "f532bf6af763d6aaca46ba3200c7baf3250f4f034f8ccd382628e41ae4c50b90"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-95-2019",
+   "short": "Ordenanza 95/2019",
+   "title": "Ordenanza 95/2019: Impóngase el nombre de Hugo Sergio Bertorello a la Calle 107 de nuestra ciudad desde la Avenida 25 de Mayo hasta la Calle 62.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285982",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285982",
+     "sha256": "7bd58328d45e2478a31ece2d9917434fbe240aa3cda082107cb40fac08c887f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-97-2019",
+   "short": "Ordenanza 97/2019",
+   "title": "Ordenanza 97/2019: Convalidar el Decreto Nº 2115/18, que reglamenta la Ordenanza N° 33/17 - Fondo Municipal para la Vivienda (FOMUVI). --",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285984",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285984",
+     "sha256": "d3ea900692cfb2e25df6c9dfc91609e417ab68b60614d3fb16e156e461ec9d71"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-99-2019",
+   "short": "Ordenanza 99/2019",
+   "title": "Ordenanza 99/2019: Convalidar el Convenio N° 780/18, suscripto entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y la Municipalidad de General Belgrano, con fecha 24 de octubre de 2018.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285986",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285986",
+     "sha256": "9f4762d6ee5d9029ba53382b78864e37613b4790ba83f767ef551e0a26cf1c4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-100-2019",
+   "short": "Ordenanza 100/2019",
+   "title": "Ordenanza 100/2019: Convalidar la firma del Acta Convenio suscripto entre el Ministerio de Desarrollo Social de la Pcia. de Buenos Aires y la Municipalidad de General Belgrano, en adhesión al “Programa de Responsabilidad Social Compartida E",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285987",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285987",
+     "sha256": "0d8096e622216de12bd75705e17aadbed9d8b8110d720e4a0f4fac32a41b2739"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-107-2019",
+   "short": "Ordenanza 107/2019",
+   "title": "Ordenanza 107/2019: Créase la Comisión Permanente de Promoción y Difusión de la Bandera de General Belgrano, instituida por la Ordenanza 91/2017, creada por el vecino Diego Martín Neira DNI N° 30.021.720 en el marco del Concurso “Una Bander",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285994",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285994",
+     "sha256": "e9a2a0ec691b25903317367c03a5e5b505ada9f591d23c1f32a2fdaeb28cc791"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-109-2019",
+   "short": "Ordenanza 109/2019",
+   "title": "Ordenanza 109/2019: Impleméntese un Plan de Incentivo a la Lectura.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285996",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285996",
+     "sha256": "b3d2383d7b85af911a33dace0750d56bac8c87e9fc9a4d96bcc84d07ab8f3c41"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-112-2019",
+   "short": "Ordenanza 112/2019",
+   "title": "Ordenanza 112/2019: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la “Cooperadora Hospital Municipal Juan E. de la Fuente” de: Cuatro sillas – Material madera – color azul; Un aire acondicionado – Modelo Split 3000",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285999",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1285999",
+     "sha256": "ad762928c8fa4756680839a22ddc0c8cb7da550e4b12d29b74ae09e77b7a9488"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-114-2019",
+   "short": "Ordenanza 114/2019",
+   "title": "Ordenanza 114/2019: Convalidar el Decreto N° 2328/18, dictado por el Departamento Ejecutivo, que adjudica la Licitación Privada N° 6/18 a la Sra. Agustina De la Vega – DNI: 40.145.762, en su carácter de único oferente, conforme lo establece",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1286001",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1786/contents/1286001",
+     "sha256": "24581f5d8f37f2eec4640fdd4913a08ec074308a3eaf07c9108ea12babcd8b87"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-001-2019",
+   "short": "Ordenanza 001/2019",
+   "title": "Ordenanza 001/2019: Apruébese la Ordenanza Fiscal e Impositiva que regirá a partir del Ejercicio 2019, conforme a los artículos 1 a 122 del Libro Primero – Parte Fiscal; los artículos 1 a 191 del Libro Segundo – Parte Tributaria, y los artí",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1321148",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1321148",
+     "sha256": "a21c73f2480916c69763e906838c0c8cf82cc052e14a4ca058e489fac1e88100"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-004-2019",
+   "short": "Ordenanza 004/2019",
+   "title": "Ordenanza 004/2019: Modificar el Artículo 1º de la Ordenanza 98/16, el cual quedará redactado de la siguiente manera: “Autorícese al Departamento Ejecutivo a transferir la titularidad del inmueble a favor de la Sra. María Felisa Mendizábal,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1322619",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1322619",
+     "sha256": "5e647e8d086f4f886d67974ac550955f3c0bd9685ca9667d5828319d9e2416dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-005-2019",
+   "short": "Ordenanza 005/2019",
+   "title": "Ordenanza 005/2019: Condonar la deuda que por la tasa de SUM, detenta el inmueble identificado catastralmente como: Circ. I, Secc. D, Manz. 45A, Parc. 12, identificado bajo la cuenta N°435.900, del Pdo. de General Belgrano (036), hasta el 3",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1322621",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1322621",
+     "sha256": "3ee85258da480445368e63b7f58ef663f8f8788be593626269d7f5f75fd6be08"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-009-2019",
+   "short": "Ordenanza 009/2019",
+   "title": "Ordenanza 009/2019: Convalidar el Decreto Nº 181/19 y sus anexos 1, 2 y 3, el cual aprueba y adecúa las escalas salariales correspondientes al Intendente Municipal, Sres. Concejales y Secretario del HCD.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1322637",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1322637",
+     "sha256": "a14085c2b8812e245bc8257c4589939d54a26ece5bd30e81173d8c600905c7bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-010-2019",
+   "short": "Ordenanza 010/2019",
+   "title": "Ordenanza 010/2019: Autorizar el Departamento Ejecutivo a realizar la Permuta con la empresa RENAS S.A. por tramo de cañería del gasoducto Comodoro Rivadavia – Buenos Aires (Ex General Perón) entre las progresivas 115 (S 35° 40´ 23,78´; W 0",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1324735",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1324735",
+     "sha256": "809eb925060cae2d93d9e0d38cd1a5418e968572dfe7e35e0fcf572412f0cfc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-014-2019",
+   "short": "Ordenanza 014/2019",
+   "title": "Ordenanza 014/2019: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la “Organización de Servicios Directos Empresarios” de: un Equipo de Aire Acondicionado Marca “Philco” - Modelo Split Frio/Calor 3250W. y un Televis",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1322654",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2185/contents/1322654",
+     "sha256": "cc29848706e82b9ac201516c3b6995b8fc1cbe2484f11e07321b26e0028cee7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-017-2019",
+   "short": "Ordenanza 017/2019",
+   "title": "Ordenanza 017/2019: Autorizar al Departamento Ejecutivo a suscribir con la Asociación Arte Colectivo de General Belgrano un contrato de Comodato de una superficie de 192,6 m2 del Galpón ubicado en la Plaza 1° de Agosto, identificado como Ci",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2424/contents/1351390",
+   "versions": [
+    {
+     "from": "2019-07-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2424/contents/1351390",
+     "sha256": "62f3d1fcb17e0a3b6fedea3540cd378a8ddde91771e6b46999ce9a7499e0bc03"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-19-2019",
+   "short": "Ordenanza 19/2019",
+   "title": "Ordenanza 19/2019: Condonar la deuda que posee el moto-vehículo Marca Zanella Dominio: AD710KO, de titularidad del Sr. Máximo Terrero, DNI Nº16.085.671, hasta el 31 de diciembre de 2018.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2424/contents/1351392",
+   "versions": [
+    {
+     "from": "2019-07-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2424/contents/1351392",
+     "sha256": "4172b233d4a05d79cd3a2ca8e3a6eef965fc5e23d5f8c29995303be6e606cc3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-46-2019",
+   "short": "Ordenanza 46/2019",
+   "title": "Ordenanza 46/2019: Aceptar la cesión efectuada mediante los planos correspondientes de los lotes identificados catastralmente como:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2663/contents/1379615",
+   "versions": [
+    {
+     "from": "2019-10-09",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2663/contents/1379615",
+     "sha256": "2efc1bb2b6d8ffaaa8ce3cb28e64dc17c2908b437b31c88a03c01e72dd6163d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-47-2019",
+   "short": "Ordenanza 47/2019",
+   "title": "Ordenanza 47/2019: Convalidar el Acta de Compromiso - Adhesión N° 548/19, suscrita entre la Municipalidad de General Belgrano y la Secretaría de Planificación Territorial y Coordinación de Obra Pública dependiente del Ministerio del Interi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2663/contents/1379616",
+   "versions": [
+    {
+     "from": "2019-10-09",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2663/contents/1379616",
+     "sha256": "b31052d7df63da2e078185bc73664c115535c0e60579a2e67c679f2e9198441f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-50-2019",
+   "short": "Ordenanza 50/2019",
+   "title": "Ordenanza 50/2019: Condonar la deuda que posee el vehículo Dominio: GTH068, de titularidad de la Sra. Georgina Micaela OTERO, D.N.I. Nº34.791.708, hasta el 31 de agosto de 2019.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2934/contents/1400761",
+   "versions": [
+    {
+     "from": "2019-12-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2934/contents/1400761",
+     "sha256": "6991f85e7bdfdd984f3f401fdb9bd6464c80eaf6d3f78c8c84ed939923b3a6c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-51-2019",
+   "short": "Ordenanza 51/2019",
+   "title": "Ordenanza 51/2019: Condonar la deuda que por la tasa de SUM, detentan los inmuebles identificados catastralmente como: Circ. 1, Secc. E, Manz. 30, Parc. 10H del Pdo. de Gral. Belgrano, identificado bajo la cuenta N°627700; y Circ. 1, Secc.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2934/contents/1400762",
+   "versions": [
+    {
+     "from": "2019-12-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2934/contents/1400762",
+     "sha256": "4e550ba7dfafe703416b35815cd31d763a8d8fbb11f4dfd0289458091be324c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-58-2019",
+   "short": "Ordenanza 58/2019",
+   "title": "Ordenanza 58/2019: Condonar la deuda que por la tasa de SUM, detentan los inmuebles identificados catastralmente como: Circ. K, Secc. 1B, Manz. 92, Parc. 4, del Pdo. de Gral. Belgrano, identificado bajo la cuenta N°152.300, hasta el 31 de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2934/contents/1400769",
+   "versions": [
+    {
+     "from": "2019-12-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2934/contents/1400769",
+     "sha256": "34503b0fb4a1c215709a83b25ac0939d33519ced13e76a591219761b733af5fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-60-2019",
+   "short": "Ordenanza 60/2019",
+   "title": "Ordenanza 60/2019: Declarar la Emergencia Alimentaria en todo el Distrito de General Belgrano por el término de 48 (cuarenta y ocho) meses, con el fin de garantizar un derecho básico y fundamental como es la seguridad alimentaria",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2934/contents/1400771",
+   "versions": [
+    {
+     "from": "2019-12-04",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2934/contents/1400771",
+     "sha256": "abc418cdf957b8bc1b34656ca7734ab2a874f5d5067b1a3f4e5969d01096019d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-63-2019",
+   "short": "Ordenanza 63/2019",
+   "title": "Ordenanza 63/2019: Condonar la deuda IMPUESTO DE PATENTE AUTOMOTOR del vehículo identificado con el dominio GFE425, hasta el 31 de diciembre de 2018.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2934/contents/1400774",
+   "versions": [
+    {
+     "from": "2019-12-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2934/contents/1400774",
+     "sha256": "40d72e1f348c3c1f17090991b36ddee3781e58d54df79b9fb945e7b05e6c2062"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-73-2020",
+   "short": "Ordenanza 73/2020",
+   "title": "Ordenanza 73/2020: Condonar la deuda que por la tasa de SUM, detenta el inmueble identificado catastralmente como: Circ. I Secc. B, Manz. 93, Parc. 7A, identificado bajo la cuenta N°154.503, del Pdo. de General Belgrano (036), hasta el 31 ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3052/contents/1417008",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3052/contents/1417008",
+     "sha256": "5a5cf453f23b03290c152c6d57d3fa527f495a723e8bf81d0cb8d6ea037f9dd8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-74-2020",
+   "short": "Ordenanza 74/2020",
+   "title": "Ordenanza 74/2020: Condonar la deuda que por la tasa de SUM, detenta el inmueble identificado catastralmente como: Circ. 1 Secc. C, Manz. 29D, Parc. 23, identificado bajo la cuenta N°339.000, del Pdo. de General Belgrano (036), hasta el 31",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3052/contents/1417009",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3052/contents/1417009",
+     "sha256": "4d4d7db167baa8cb169fa7cd9b5082e1940e5cba2c60cd296c6ec50560e52833"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-76-2020",
+   "short": "Ordenanza 76/2020",
+   "title": "Ordenanza 76/2020: Dispóngase la colocación de cámaras de seguridad en la localidad de Gorchs y el Paraje Chas del Partido de General Belgrano.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3052/contents/1417011",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3052/contents/1417011",
+     "sha256": "f4a72c22f0aa1e0ebba0362304fef99fa4022c1453b6f91e00c213ca1bd57053"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-78-2020",
+   "short": "Ordenanza 78/2020",
+   "title": "Ordenanza 78/2020: Convalidar el Convenio suscripto entre la Municipalidad de Castelli y la Municipalidad de General Belgrano, en el marco de la Prestación Asistencial, traslados para la atención de pacientes, desde el Hospital Municipal R",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3052/contents/1417013",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3052/contents/1417013",
+     "sha256": "07a03e707f5263dc2e1d016ca322657878f1cd7e73a0127974865ca32d3cc974"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-003-2020",
+   "short": "Ordenanza 003/2020",
+   "title": "Ordenanza 003/2020: Disponer la caducidad de la adjudicación original del inmueble Vivienda N° 14 - Barrio ATEPAM como titular de la misma a Marcelo Fernando Juárez – DNI: 16.162.681, por los fundamentos que anteceden.--",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3847/contents/1464970",
+   "versions": [
+    {
+     "from": "2020-07-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3847/contents/1464970",
+     "sha256": "d6104d748ddc6dc298e7a36ca049ef24dcd382af07cd66c5f92eb31a96d6aea3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-010-2020",
+   "short": "Ordenanza 010/2020",
+   "title": "Ordenanza 010/2020: Crease el Registro Único Alimenticio.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3847/contents/1464977",
+   "versions": [
+    {
+     "from": "2020-07-11",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3847/contents/1464977",
+     "sha256": "541aa9b6aeb920acda2555eb1d0f0266d5bb234362defb0173c89c2911670454"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-017-2020",
+   "short": "Ordenanza 017/2020",
+   "title": "Ordenanza 017/2020: Adhiérase la Municipalidad de General Belgrano a las disposiciones contenidas en la Ley Nacional 27.350 y la Ley Provincial 14.924.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3847/contents/1465330",
+   "versions": [
+    {
+     "from": "2020-07-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3847/contents/1465330",
+     "sha256": "1bac9e5a11be6a232f9b6fc4ca651fc2287e86d6ea016680f4ee9793c9d6d690"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-26-2020",
+   "short": "Ordenanza 26/2020",
+   "title": "Ordenanza 26/2020: Convalidar el Convenio N° 169/2020 de fecha 10 de febrero de 2020, suscripto entre la Dirección General de Cultura y Educación de la Provincia de Buenos Aires y la Municipalidad de General Belgrano, en el marco del “Prog",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4048/contents/1479551",
+   "versions": [
+    {
+     "from": "2020-09-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4048/contents/1479551",
+     "sha256": "e351be7a4044cfe25dddf1d088857bdbe4d9770452af4e956c7393de802229d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-28-2020",
+   "short": "Ordenanza 28/2020",
+   "title": "Ordenanza 28/2020: Convalidar el Contrato de Comodato suscripto entre la Municipalidad de General Belgrano y la “Clínica 1° de Agosto”, representada por el Dr. Juan Sebastián Gimenez Verrina, con fecha 1 de mayo de 2020.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4048/contents/1479559",
+   "versions": [
+    {
+     "from": "2020-09-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4048/contents/1479559",
+     "sha256": "64109149895596a567c773b0cce71860a54845676db79453fda399e9b0f3897a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-32-2020",
+   "short": "Ordenanza 32/2020",
+   "title": "Ordenanza 32/2020: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por Sr. Fabián Alcides Moreno – DNI: 18.431.143 de un Termómetro clínico digital láser infrarrojo - Marca CRAFISH – Modelo DZ-820, para ser utilizado en",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4048/contents/1479564",
+   "versions": [
+    {
+     "from": "2020-09-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4048/contents/1479564",
+     "sha256": "08991e204bc56fe396f5d7c4d01caaa2528da0e8508d176fb9ee09b2b760f31f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-44-2020",
+   "short": "Ordenanza 44/2020",
+   "title": "Ordenanza 44/2020: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por el Sr. Marcos Gatti – DNI: 20.499.379 y la Sra. Andrea Paola Mamone – DNI: 25.269.501 de: dos sillas de escritorio (usadas), para ser utilizadas en ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4320/contents/1495648",
+   "versions": [
+    {
+     "from": "2020-10-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4320/contents/1495648",
+     "sha256": "0928dd16846efdd6681bfdb99bce4fd49006d69a906bb4a8f99a70ca37a37abb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-47-2020",
+   "short": "Ordenanza 47/2020",
+   "title": "Ordenanza 47/2020: Aprobar el compromiso de fondos de más de un ejercicio a los efectos de abonar los pagos correspondientes al Contrato de Locación N° 405/2020 suscripto entre Javier Delli Quadri-DNI: 22577.017, y la Municipalidad de Gral",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4320/contents/1495658",
+   "versions": [
+    {
+     "from": "2020-10-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4320/contents/1495658",
+     "sha256": "9a0f165744b5288468b56421082b9c00074298472d35f02fd32304adc443a591"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-50-2020",
+   "short": "Ordenanza 50/2020",
+   "title": "Ordenanza 50/2020: Declárase de Interés y Utilidad Pública la poda de especies arbóreas como instrumento esencial en la defensa del medio ambiente en general y del arbolado público, lo que redunda en beneficio de las condiciones de vida de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4320/contents/1495666",
+   "versions": [
+    {
+     "from": "2020-10-21",
+     "units": 14,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4320/contents/1495666",
+     "sha256": "0cc3096ec22292ec0593a3456f97c99656f7b7e5bdc2c0da330ca753928efc7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-66-2021",
+   "short": "Ordenanza 66/2021",
+   "title": "Ordenanza 66/2021: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por el Comité de la Unión Cívica Radical de General Belgrano de: dos calefactores – Marca “CTZ” – Modelo 2500 calorías, los cuales serán destinados para",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514695",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514695",
+     "sha256": "0e2605f9fbbd48e4c8df5023acb23ec5156516772bf464a80067f22348477039"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-74-2021",
+   "short": "Ordenanza 74/2021",
+   "title": "Ordenanza 74/2021: Afectar a un Plan de Viviendas de ocupación única, unifamiliar y de ocupación permanente, en los términos establecidos en el artículo 159, inciso F de la Ley Orgánica de las Municipalidades Decreto Ley N° 6769/1958 y mod",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514703",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514703",
+     "sha256": "685ea6c33d4d6c16137ef1456708622fc17f2027e521ae88482a007cec4228d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-77-2021",
+   "short": "Ordenanza 77/2021",
+   "title": "Ordenanza 77/2021: Créase el Plan de Contención en Salud para Adultos Mayores, asesorado y controlado por la Dirección del Hospital Municipal de General Belgrano o la que en un futuro la reemplace con colaboración de la Secretaría de Cultu",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514706",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514706",
+     "sha256": "6114e929b8c95596e58fe7030ae6f8805338b4e18ecc17dd02e9ed7ae40a6f32"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-81-2021",
+   "short": "Ordenanza 81/2021",
+   "title": "Ordenanza 81/2021: Convalidar el Decreto Nº 1471/2020, el cual crea una “Bonificación Indumentaria” para el personal municipal, en el marco del Artículo 6° inciso q) de la Ley 14565 –Estatuto del Empleado Municipal de la Pcia. de Buenos Ai",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514710",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514710",
+     "sha256": "7803494f4bdd66058b9443385a2740197623894f954d9b9547c51a8b9bac06c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-82-2021",
+   "short": "Ordenanza 82/2021",
+   "title": "Ordenanza 82/2021: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la “Cooperadora Hospital Municipal Juan E. de la Fuente” de: Dos sillas - Material madera - Color azul, Un aire acondicionado Marca TCL – Modelo Spl",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514711",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514711",
+     "sha256": "278962c0c8b124390497e7e345f5868060f959cad64c638c37d3b452fe056c02"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-86-2021",
+   "short": "Ordenanza 86/2021",
+   "title": "Ordenanza 86/2021: Convalidar el Contrato de Comodato o Préstamo de Uso Gratuito N° 664/2020, de fecha 2 de noviembre de 2020, suscripto entre la Municipalidad de General Belgrano y la Dirección de Energía de la Provincia de Buenos Aires.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514715",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4611/contents/1514715",
+     "sha256": "c8c66b6709db037c230e2eba2f12beb9e3d81656a35a0da3583ba15ca60444f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-0003-2021",
+   "short": "Ordenanza 0003/2021",
+   "title": "Ordenanza 0003/2021: Interpelar al Sr. Director del Hospital Municipal, Dr. Facundo Larrañaga, quien deberá concurrir al recinto en la fecha y hora que se establezca, a fin de brindar únicamente la información que a continuación se detalla e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5178/contents/1561683",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5178/contents/1561683",
+     "sha256": "fd321ad71f822072c4b7c65f90187771045258de06ad9a8ee7c3b44a05f0b35c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-007-2021",
+   "short": "Ordenanza 007/2021",
+   "title": "Ordenanza 007/2021: Condonar la deuda que por la tasa de Servicios Urbanos Municipales a la Sra Marina Carla Bonfiglio –cuenta 5473000 -, incluyendo multas, intereses y demás accesorias legales si los hubiere.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5369/contents/1573254",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5369/contents/1573254",
+     "sha256": "72312a19adaa38028ac697f7024054ebba60664fb3198fac7fef7fb7035ca84f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-008-2021",
+   "short": "Ordenanza 008/2021",
+   "title": "Ordenanza 008/2021: Convalidar el Decreto Nº 7/2021 y sus anexos 1, 2, 3 y 4, el cual aprueba y adecúa las escalas salariales correspondientes al Intendente Municipal, Sres. Concejales y Secretario del HCD.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5369/contents/1573255",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5369/contents/1573255",
+     "sha256": "3faea7e434387564a57776e7d9d1b400af7417f821fc8a1e291f26af170a3dcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-019-2021",
+   "short": "Ordenanza 019/2021",
+   "title": "Ordenanza 019/2021: Adherir en plenitud a la Ley Nacional 27535 que establece que todos los educando tienen derecho a recibir educación sobre el Folklore.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5369/contents/1573266",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5369/contents/1573266",
+     "sha256": "77e69e58b062b5bbc964b0953c31129e60eb8d9d9331dcb630ba2c0719fda492"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-26-2021",
+   "short": "Ordenanza 26/2021",
+   "title": "Ordenanza 26/2021: Convalidar el Convenio N° 355/2021, suscripto el día 14 de abril de 2021, entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y la Municipalidad de General Belgrano, para la financ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5386/contents/1581090",
+   "versions": [
+    {
+     "from": "2021-06-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5386/contents/1581090",
+     "sha256": "9ee9016361cc0afbd7392a9b3693657fc1c376e2c47bf6ae3a179b5ccea53dd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-28-2021",
+   "short": "Ordenanza 28/2021",
+   "title": "Ordenanza 28/2021: Convalidar el Convenio Específico de Cooperación Nº 186/2021 y el Protocolo Adicional suscripto entre la Facultad de Ciencias Económicas de la Universidad Nacional de la Plata y la Municipalidad de General Belgrano, con ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5386/contents/1581097",
+   "versions": [
+    {
+     "from": "2021-06-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5386/contents/1581097",
+     "sha256": "0f61d8498e8a6729ee21fa8bc09e69210e21f2841f46f570752e53f0a44c3ebe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-36-2021",
+   "short": "Ordenanza 36/2021",
+   "title": "Ordenanza 36/2021: Procédase a colocar en las entradas de los distintos establecimientos públicos de la localidad de masiva concurrencia, pictogramas.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5483/contents/1589876",
+   "versions": [
+    {
+     "from": "2021-07-09",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5483/contents/1589876",
+     "sha256": "1f0efd2ff9463978623e891deb4a9aee1561858b5bb46f15b559e9ca024faeb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-49-2021",
+   "short": "Ordenanza 49/2021",
+   "title": "Ordenanza 49/2021: Establecer el sentido único de circulación a la calle 130 entre A.V. 2 de septiembre y calle 53, con dirección desde Av. 2 de septiembre hacia la calle 53",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5603/contents/1600145",
+   "versions": [
+    {
+     "from": "2021-08-07",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5603/contents/1600145",
+     "sha256": "6afd48b2474444481378820b910379a1f1f04302f05d9479931c8cea87ea3ab3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-54-2021",
+   "short": "Ordenanza 54/2021",
+   "title": "Ordenanza 54/2021: Establecer, a través de la Dirección de Salud Municipal, un sistema de información para familiares directos de pacientes internados con COVID-19, el cual deberá, al menos, constar de dos partes médicos diarios con inform",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5603/contents/1600111",
+   "versions": [
+    {
+     "from": "2021-08-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5603/contents/1600111",
+     "sha256": "8de4cc500de6f3766f0884b14a2651d77116a3a9894feb7dd317f1338c7b607e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-62-2021",
+   "short": "Ordenanza 62/2021",
+   "title": "Ordenanza 62/2021: Convalidar el Convenio 397/2021, suscripto entre el Ministerio de Desarrollo Agrario de la Pcia. de Buenos Aires y la Municipalidad de General Belgrano, con fecha 28 de abril de 2021, (con fecha digital 15/05/2021), que ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5900/contents/1624183",
+   "versions": [
+    {
+     "from": "2021-10-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5900/contents/1624183",
+     "sha256": "526f0579d5280ed16934cbf8a85773887daa3f97af9a133acfac0e41b51eda5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-64-2021",
+   "short": "Ordenanza 64/2021",
+   "title": "Ordenanza 64/2021: Declárase, Patrimonio Histórico y Cultural a los vagones del ex Ferrocarril Roca, sitos en la Plaza 1° de Agosto, sobre la Av. Larrea.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5900/contents/1624185",
+   "versions": [
+    {
+     "from": "2021-10-03",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5900/contents/1624185",
+     "sha256": "9492bc747f29f677aadfddc7ddac9b09bc208ca26c2ee3ae122351efef2d91d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-67-2021",
+   "short": "Ordenanza 67/2021",
+   "title": "Ordenanza 67/2021: Convalidar el Decreto Nº 1316/2021, por el cual se establece la exención del pago del servicio de alojamiento en la Casa del Estudiante Universitario de la Ciudad de La Plata a la totalidad de los residentes de la misma,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5900/contents/1624188",
+   "versions": [
+    {
+     "from": "2021-10-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5900/contents/1624188",
+     "sha256": "c14721099b92a2c8de378be2420ed4df1f14cf7e0dc9397ac625a839290b5782"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-73-2021",
+   "short": "Ordenanza 73/2021",
+   "title": "Ordenanza 73/2021: Adhiérase la Municipalidad de General Belgrano a la Ley N° 15.296 conforme a lo establecido en el artículo 12° de la misma, promulgada por el Poder Ejecutivo de la Provincia de Buenos Aires y publicada en el Boletín Ofic",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6136/contents/1637775",
+   "versions": [
+    {
+     "from": "2021-11-06",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6136/contents/1637775",
+     "sha256": "f32a638bc0fe3b6229bd53a35913e9ce48a430e4e3b8681a9b6c31ac95bd29a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-75-2021",
+   "short": "Ordenanza 75/2021",
+   "title": "Ordenanza 75/2021: Establecer que las plazas, “1º de agosto”, “Alem”, Parque “Mateo Bruzzo”, “Balneario Viejo” de General Belgrano deberán contar con baños públicos, ya sea mediante la construcción de los mismos o bien garantizando el acce",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6136/contents/1637777",
+   "versions": [
+    {
+     "from": "2021-11-06",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6136/contents/1637777",
+     "sha256": "3455f1ebcbc8bf7db0ec120088c95c2856e7ba49c28b9f833e27d4016d590ccb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-79-2021",
+   "short": "Ordenanza 79/2021",
+   "title": "Ordenanza 79/2021: 1: Aprobar el compromiso de fondos de más de un ejercicio a los efectos de abonar los pagos correspondientes al Contrato de Locación N° 677/2021 suscripto entre Javier Delli Quadri - DNI: 22577.017, y la Municipalidad de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6136/contents/1637786",
+   "versions": [
+    {
+     "from": "2021-11-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6136/contents/1637786",
+     "sha256": "476626c1ac5c2995025eb5c631ad31c24a056db1344d7ed01254576373d23cdf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-87-2021",
+   "short": "Ordenanza 87/2021",
+   "title": "Ordenanza 87/2021: Instaurar en el municipio de General Belgrano la “Semana del Tango” que se realizará en el Pasaje Carlos Gardel. Durante la misma se desarrollaran actividades vinculadas a la tradición musical tanguera.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6404/contents/1662489",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6404/contents/1662489",
+     "sha256": "9ed3c6e0185feb99dd1c7f3362fa800c65f738f94d670c57edf4f1237ecfa35f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-88-2021",
+   "short": "Ordenanza 88/2021",
+   "title": "Ordenanza 88/2021: Condonar la deuda que por la tasa de SUM, que detentan los inmuebles identificados catastralmente como: Circ. I, Secc. B , Manz. 103, Parcelas 1B; 3; 4 y 12, del Pdo. de Gral. Belgrano, identificados bajo las cuentas N°1",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6404/contents/1662494",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6404/contents/1662494",
+     "sha256": "bee021b956831ecc8faac64c47438c40a5435684145b0d2a8ab8d343338d6713"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-90-2021",
+   "short": "Ordenanza 90/2021",
+   "title": "Ordenanza 90/2021: Convalidar el Decreto Nº 1794/2021 y su anexo 1, el cual aprueba y adecúa las escalas salariales correspondientes al Intendente Municipal, Sres. Concejales y Secretario del HCD.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6404/contents/1662497",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6404/contents/1662497",
+     "sha256": "034f9c2538ed1360c5260b1cbf493c1c89daccbc294017747fff780e20dc0434"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-94-2021",
+   "short": "Ordenanza 94/2021",
+   "title": "Ordenanza 94/2021: Créase, dentro de la línea de créditos municipales, una línea especial y específica para artistas y artesanos de nuestra ciudad, la que debe estar destinada a la compra de instrumentos musicales, materiales, insumos y/o ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6404/contents/1662504",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6404/contents/1662504",
+     "sha256": "5c8de7103042fa6c917bad99d37da26c163b2f89ab882bb0e7220188f0e3802f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-33-2022",
+   "short": "Ordenanza 33/2022",
+   "title": "Ordenanza 33/2022: Comunicar al Departamento Ejecutivo, para que, a través del área correspondiente, realice la colocación de reductores de velocidad en Avenida Fuerza Aérea.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7037/contents/1718414",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7037/contents/1718414",
+     "sha256": "0d3315a9699368342854117e23308c69b2c2a8d5671d79b29ba137126b167ac3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-42-2022",
+   "short": "Ordenanza 42/2022",
+   "title": "Ordenanza 42/2022: Condonar la deuda por de la renovación del arrendamiento de sepultura del inmueble identificado catastralmente como: Manz AA, sección 2, Sepultura Nº 45, identificado bajo la cuenta N° 6600000909 del cementerio de la loc",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7044/contents/1731428",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7044/contents/1731428",
+     "sha256": "b2ac3f49e14c679806d2b0a5b1a6b46ddc7efb7addcb4bea2bb8c187f100d121"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-47-2022",
+   "short": "Ordenanza 47/2022",
+   "title": "Ordenanza 47/2022: Créese el Régimen de Promoción para las empresas del Partido de General, con el objeto de fomentar su establecimiento, consolidación y regularización, contribuyendo así al aumento de actividades productivas, progreso eco",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7044/contents/1731433",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7044/contents/1731433",
+     "sha256": "db885cf1b75a326e7a882a5401bae796723e82027d22a5c31f74f4d834580d64"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-55-2022",
+   "short": "Ordenanza 55/2022",
+   "title": "Ordenanza 55/2022: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por el Ministerio de Salud de la Provincia de Buenos de: Cinco Tensiómetros Marca “Microlife” – Modelo Basic – Serie N°521501157, 521501158, 521501160, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7299/contents/1751259",
+   "versions": [
+    {
+     "from": "2022-08-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7299/contents/1751259",
+     "sha256": "156a558ec1036f5178100b0c8a5c4698fe328e70e55ffde12f8498e94649201d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-57-2022",
+   "short": "Ordenanza 57/2022",
+   "title": "Ordenanza 57/2022: Desafectar del Plan FOMUVI las parcelas nomenclatura catastral: Circunscripción I, Sección E, Chacra 32, Manzana 32m, Parcelas 1 y 24, en el marco de Artículo 25°, inciso b) del Decreto Ley 9533/1980.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7299/contents/1751262",
+   "versions": [
+    {
+     "from": "2022-08-06",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7299/contents/1751262",
+     "sha256": "9ae4f212dd2f4166bd12beb03dd1485dca0352e64803c5ba7ae183ee84525cd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-58-2022",
+   "short": "Ordenanza 58/2022",
+   "title": "Ordenanza 58/2022: Facultar al Departamento Ejecutivo a contraer con el Banco de la Provincia de Buenos Aires un empréstito de hasta la suma de pesos SETENTA MILLONES ($70.000.000.-).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7299/contents/1751291",
+   "versions": [
+    {
+     "from": "2022-08-06",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7299/contents/1751291",
+     "sha256": "1edc07d14bc0bac607bc224a8056199352b87ecf6ffa86ee0d9c76a24c4164ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-069-2022",
+   "short": "Ordenanza 069/2022",
+   "title": "Ordenanza 069/2022: Convalidar el Decreto Nº 1441/2022 y sus anexos 1 y 2, que aprueba y adecúa la escala salarial correspondientes al personal incorporado a la Carrera Profesional Hospitalaria - Ley 10.471 y modificatorias.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7528/contents/1768634",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7528/contents/1768634",
+     "sha256": "3c6ed16c3e6ea4e63a329fb7825b2541cbf49be420ebcc4966fe763b638479f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-070-2022",
+   "short": "Ordenanza 070/2022",
+   "title": "Ordenanza 070/2022: Autorícese a emplazar un “Corazón Solidario” en la Plaza 1º de Agosto y en todos los CIC barriales.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7528/contents/1768635",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7528/contents/1768635",
+     "sha256": "017b4e9d3c236b7e6441109a9c3bbe7e309fabdd828896d4cf8cafb7131d99c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-76-2022",
+   "short": "Ordenanza 76/2022",
+   "title": "Ordenanza 76/2022: Convalidar el Convenio Marco N° 707/2022, suscripto el día 1 de Julio de 2022, entre la Municipalidad de General Belgrano y el Instituto Nacional de Tecnología Agropecuaria (INTA).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7592/contents/1784242",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7592/contents/1784242",
+     "sha256": "f5f1f4d28f0b1c98dbee45b7ae060aeb10af6e2c6f8e641ff4d8f42ed9cbaa38"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-77-2022",
+   "short": "Ordenanza 77/2022",
+   "title": "Ordenanza 77/2022: Impleméntese una campaña municipal para el uso obligatorio de cascos de protección en los conductores de motos.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7592/contents/1784243",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7592/contents/1784243",
+     "sha256": "e207e39f3917063f363caaf7f93a905320315981d958e94854969400aedef345"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-85-2022",
+   "short": "Ordenanza 85/2022",
+   "title": "Ordenanza 85/2022: Aprobar el compromiso de fondos de más de un ejercicio a los efectos de abonar los pagos correspondientes al Contrato de Locación N° 801/2022 de fecha 24 de agosto de 2022 y con vencimiento el 31 de agosto de 2025, suscr",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7592/contents/1784251",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7592/contents/1784251",
+     "sha256": "a8dc8cc8fc1a0db3d8caae77728702e2b720d98d238c2d756405cb1899a8312f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-088-2022",
+   "short": "Ordenanza 088/2022",
+   "title": "Ordenanza 088/2022: Aceptar la donación con cargo efectuada por el Sr. GONZALO MATIAS CORREFORTE, Documento Nacional de Identidad N° 36.092.526, CUIL: 23-360925269, en relación al inmueble designado catastralmente como: Circunscripción: 1, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7815/contents/1801222",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7815/contents/1801222",
+     "sha256": "8d4a112494eaa23951b7bc8ed9e4d6f481d14a8b637a40fa393e561aaf36670b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-91-2022",
+   "short": "Ordenanza 91/2022",
+   "title": "Ordenanza 91/2022: Convalidar el Convenio N° 800/2022 de fecha 23 de agosto de 2022, suscripto entre la Municipalidad de General Belgrano y el Ministerio de Desarrollo Agrario de la Provincia de Buenos Aires, a los efectos de otorgar al Mu",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801262",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801262",
+     "sha256": "9bbcdf6b1b69338571273df314409d9f300013e30697e24ce12b8a65a9591ff3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-93-2022",
+   "short": "Ordenanza 93/2022",
+   "title": "Ordenanza 93/2022: DECLARASE EL PARTIDO DE GENERAL BELGRANO “TERRITORIO LIBRE DE PIROTECNIA SONORA DE ALTO IMPACTO” con los alcances establecidos en esta Ordenanza. Esta norma alcanza a la pirotecnia sonora utilizada con fines de recreació",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801264",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801264",
+     "sha256": "c064c5d821e32069a16292343559a60c0729ce35051aab3f813c736a5f3128f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-95-2022",
+   "short": "Ordenanza 95/2022",
+   "title": "Ordenanza 95/2022: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la “Cooperadora Hospital Municipal Juan E. de la Fuente” de: un Televisor – Marca “RCA” – Modelo X50ANDTV Smart Android 50”; el cual será destinado ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801266",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801266",
+     "sha256": "028c9815d212798dfbfc5011ee52c11b771a0d4ba5c70200e420913e41a82282"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-96-2022",
+   "short": "Ordenanza 96/2022",
+   "title": "Ordenanza 96/2022: Permutar el destino de Espacio Libre y Verde Público de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801267",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801267",
+     "sha256": "35078ef3f30c10eeea1fffd5afeec7c0ae2ff55a5746db2ba267d883f1ca9c29"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-99-2022",
+   "short": "Ordenanza 99/2022",
+   "title": "Ordenanza 99/2022: Encomendar al Departamento Ejecutivo que realice las gestiones tendientes a firmar los convenios pertinentes con el Comité Ejecutivo del Procrear a los fines de someter parte de los inmuebles fiscales de Gorchs y/u otros",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801270",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801270",
+     "sha256": "1de48a156788847dc6e297795d7c42cb51c8c684d754e0b97902289e0b6d64fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-100-2023",
+   "short": "Ordenanza 100/2023",
+   "title": "Ordenanza 100/2023: Autorizar al Departamento Ejecutivo a adjudicar la Licitación Pública N° 9/2022, para la “Ampliación Escuela Secundaria N° 1 Regimiento de Patricios”, a la firma ESPACIO R2 S.A. - CUIT: 30-71599699-1, por considerarla de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831814",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831814",
+     "sha256": "bfa3a8f37ad855bc96dc2cdd32ef2cd3197427c53f2844ba3333e22efa07ed0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-102-2023",
+   "short": "Ordenanza 102/2023",
+   "title": "Ordenanza 102/2023: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la “Cooperadora Hospital Municipal Juan E. de la Fuente” de: Ocho sillas - Material plástico - Color azul; Tres aires acondicionados - Modelo Split ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831816",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831816",
+     "sha256": "b3daed5ed770f3290ace9e8db030aa378b258ea6adacd23933666e69739e83d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-110-2023",
+   "short": "Ordenanza 110/2023",
+   "title": "Ordenanza 110/2023: Impleméntese una única mano de estacionamiento a lo largo de dicha vía de circulación.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831824",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831824",
+     "sha256": "d3b57d06d50a1ba53870443156a2e1fb249972a75341df18f0c51ffdfa957425"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-112-2023",
+   "short": "Ordenanza 112/2023",
+   "title": "Ordenanza 112/2023: Convalidar el Convenio N° 1175/2022, suscrito el día 23 de noviembre de 2022, entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia. de Buenos Aires y la Municipalidad de General Belgrano, para la f",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831832",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831832",
+     "sha256": "674d449670131c5c23742dc2bd812acbe708e11b00c305f82d1856a2081f7afb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-113-2023",
+   "short": "Ordenanza 113/2023",
+   "title": "Ordenanza 113/2023: Convalidar el Convenio N° 1221/2022, suscrito el día 15 de noviembre de 2022, entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y la Municipalidad de General Belgrano, para el fi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831826",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831826",
+     "sha256": "543031ec7adba0787316c9437a9c207d4db553f5e73dfeb63db2adc085028dd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-114-2023",
+   "short": "Ordenanza 114/2023",
+   "title": "Ordenanza 114/2023: Convalidar el Convenio N° 1222/2022, suscrito el día 16 de diciembre de 2022, entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y la Municipalidad de General Belgrano, para el fi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831827",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831827",
+     "sha256": "d49827b1dbc381c055f61a71354742ff0f1ab9ffe15cb55521b0dc76ccf4a1be"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-115-2023",
+   "short": "Ordenanza 115/2023",
+   "title": "Ordenanza 115/2023: Sanciónese y pónese en vigencia el Presupuesto de Gastos y el Cálculo de Recursos para el Ejercicio Económico 2023 en un todo de acuerdo con la Reforma de la Administración Financiera en el Ámbito Municipal (R.A.F.A.M.).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831828",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 23,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831828",
+     "sha256": "e240885b688760fcc10e2e6ecb947c470747b913d1897b7ad37b6e0349ac2a05"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-116-2023",
+   "short": "Ordenanza 116/2023",
+   "title": "Ordenanza 116/2023: Convalidar el Decreto Nº 2447/2022, el cual modifica valores a percibir por la venta de alimentos y combos en la entrada del Cine Teatro Español, a partir del 18 de noviembre de 2022. --",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831829",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8017/contents/1831829",
+     "sha256": "941cde920a18ffce672d0800275ae8b44e5d2ac1bee06fd7f0cec275ddd4f9e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4-2023",
+   "short": "Ordenanza 4/2023",
+   "title": "Ordenanza 4/2023: Convalidar el Convenio N° 250/2023, suscrito el día 3 de febrero de 2023, entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y la Municipalidad de General Belgrano, para el financ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8468/contents/1858145",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8468/contents/1858145",
+     "sha256": "2b2835540a62b25e450e3dee1ce8640ddc486a067ca48293e977d947cc70da38"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6-2023",
+   "short": "Ordenanza 6/2023",
+   "title": "Ordenanza 6/2023: Autorizar al Departamento Ejecutivo a adjudicar la Licitación Pública N° 2/2023, para la ejecución de la obra “Construcción de Dormitorios y Sanitarios en C.E.P.T. Nº 1 Paraje la Colonia”, a la firma Espacio R2 S.A. – CU",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8468/contents/1858147",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8468/contents/1858147",
+     "sha256": "0f8cce237a2b77416f2fd9fb60b835a93838207eff564a27bb0d074b0fae17aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-09-2023",
+   "short": "Ordenanza 09/2023",
+   "title": "Ordenanza 09/2023: la deuda de tasa sum del inmueble con nomenclatura catastral Circ I sección B manzana 114A parcela 4E; identificado bajo la cuenta 159700, perteneciente a Alemis Irineo Delfor.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8883/contents/1895436",
+   "versions": [
+    {
+     "from": "2023-06-24",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8883/contents/1895436",
+     "sha256": "bd528955ed7a6276c32708064b4f6e0f9a889df1ca55f830cf30922c02e2dbb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12-2023",
+   "short": "Ordenanza 12/2023",
+   "title": "Ordenanza 12/2023: Aprobar el compromiso de fondos de más de un ejercicio a los efectos de abonar los pagos correspondientes al Contrato de Locación N° 287/2023, suscripto entre la Sra. Adriana Jeckeln y la Municipalidad de Gral. Belgrano.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8883/contents/1895439",
+   "versions": [
+    {
+     "from": "2023-06-24",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8883/contents/1895439",
+     "sha256": "38702c7808ad0b15f648ce9cc26b663b0f9c179be0f83b13b0dfc2087bb7fda5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-14-2023",
+   "short": "Ordenanza 14/2023",
+   "title": "Ordenanza 14/2023: Convalidar el Decreto Nº 12/2023 que aprueba las escalas salariales correspondientes al Intendente Municipal, Sres. Concejales y Secretario del HCD.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8883/contents/1895441",
+   "versions": [
+    {
+     "from": "2023-06-24",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8883/contents/1895441",
+     "sha256": "6ea44eb1dbe1618c2f3fb7d9b29a817d7776dc582e4df7e957a19f7dc650635b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-30-2023",
+   "short": "Ordenanza 30/2023",
+   "title": "Ordenanza 30/2023: Establézcase un Régimen Normativo de Condonación de deudas de Tasas, Contribuciones y Derechos, que los contribuyentes posean con la Municipalidad de General Belgrano.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8883/contents/1895456",
+   "versions": [
+    {
+     "from": "2023-06-24",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8883/contents/1895456",
+     "sha256": "6db48b8e2d38f007c707df76b05f5bb9517e941900aa14ec8df000277fb6d5a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-32-2023",
+   "short": "Ordenanza 32/2023",
+   "title": "Ordenanza 32/2023: Convalidar el Decreto Nº 778/2023 y sus anexos 1 y 2, que aprueba y adecúa la escala salarial correspondientes al personal incorporado a la Carrera Profesional Hospitalaria - Ley 10.471 y modificatorias.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9405/contents/1944432",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9405/contents/1944432",
+     "sha256": "db61ed1701df682e396b49a03ef3b23ac7886c53dc4310894f09a0f6c639c946"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-41-2023",
+   "short": "Ordenanza 41/2023",
+   "title": "Ordenanza 41/2023: Condonar la deuda de tasa sum del inmueble con nomenclatura catastral Circ I sección C manzana 6 parcela 2; identificado bajo la cuenta Nº 238702, perteneciente a Agrupación Deportiva “El Salado”.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9405/contents/1944441",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9405/contents/1944441",
+     "sha256": "34c373f6b5517db2341a8ccd68af3881c69ed3dfe45459978d74e8ccbdea385d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-45-2023",
+   "short": "Ordenanza 45/2023",
+   "title": "Ordenanza 45/2023: Autorizar al Departamento Ejecutivo a suscribir con la Asociación Civil Ballet de Danzas Folklóricas de General Belgrano un contrato de Permiso de Uso del inmueble denominado “Centro Cultural Juan Dobos”, ubicado en el B",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9405/contents/1944445",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9405/contents/1944445",
+     "sha256": "59b169634dfdf3e894215a665e67b2917ab1882dd079717accb984902a9ec648"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-52-2023",
+   "short": "Ordenanza 52/2023",
+   "title": "Ordenanza 52/2023: Convalidar el Decreto Nº 1540/2023 que aprueba las escalas salariales del Intendente Municipal y Concejales.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9405/contents/1944452",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9405/contents/1944452",
+     "sha256": "62784197bc6dc32380db9e3371b22c86d76f59a24a2a04002fdf7e13a001204a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-61-2023",
+   "short": "Ordenanza 61/2023",
+   "title": "Ordenanza 61/2023: Convalidar el Decreto Nº 1760/2023, por el cual la Municipalidad de General Belgrano adhiere a la reprogramación de la deuda municipal, en el marco del Fondo Especial de Emergencia Sanitaria para la contención fiscal mun",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9405/contents/1944461",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9405/contents/1944461",
+     "sha256": "6456e5fd62fcd17793f8ff1c007e03aafac2a97dab93916eceadd705f0c3f6ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-67-2023",
+   "short": "Ordenanza 67/2023",
+   "title": "Ordenanza 67/2023: Convalidar el Convenio N° 964/2023, suscripto el día 11 del mes de septiembre del año 2023, con el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires para la financiación de la obra “Infra",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9575/contents/1973066",
+   "versions": [
+    {
+     "from": "2023-11-18",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9575/contents/1973066",
+     "sha256": "a9552d93971aa6f456944d360186094f771d71ccb2933b187a620d2cf130a84b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-68-2023",
+   "short": "Ordenanza 68/2023",
+   "title": "Ordenanza 68/2023: Convalidar el Decreto Nº 1879/2023, el cual modifica valores a percibir por la venta de alimentos y combos en la entrada del Cine Teatro Español, a partir del 1 de septiembre de 2023. --",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9575/contents/1973067",
+   "versions": [
+    {
+     "from": "2023-11-18",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9575/contents/1973067",
+     "sha256": "d2de862f9492508878516ec96cd753610b024dbebab9272c5f024b7b54914134"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-74-2023",
+   "short": "Ordenanza 74/2023",
+   "title": "Ordenanza 74/2023: Convalidar el Convenio Nº 1176/2023, suscripto entre el Instituto de la Vivienda de la Provincia de Buenos Aires y la Municipalidad de General Belgrano, por el que la MUNICIPALIDAD cede al INSTITUTO la posesión de los in",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9575/contents/1973072",
+   "versions": [
+    {
+     "from": "2023-11-18",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9575/contents/1973072",
+     "sha256": "8aff384e925bb56555b5404be58ba997826d4d3d6a26214b9a92633bc80010e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-82-2023",
+   "short": "Ordenanza 82/2023",
+   "title": "Ordenanza 82/2023: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la Sra. Margot Angela Loyacono - DNI N°3.637.414 de: un Televisor Marca “TCL” - Modelo S65 A - Pantalla Led 32” - Sistema Android; el cual será dest",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9803/contents/1990687",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9803/contents/1990687",
+     "sha256": "d291d85ded0a59325905d83c556d702d62fe8089f34e8414a6276709e77d8b67"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-83-2023",
+   "short": "Ordenanza 83/2023",
+   "title": "Ordenanza 83/2023: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la “Cooperadora Hospital Municipal Juan E. de la Fuente” de: una Heladera – Marca NEBA – Modelo A280 2 puertas; la cual será destinada al Sector Off",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9803/contents/1990691",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9803/contents/1990691",
+     "sha256": "b71f52d34b5c75786b0a524acc7a04e99a08adeda6f2b77c1d98be7068985742"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-85-2023",
+   "short": "Ordenanza 85/2023",
+   "title": "Ordenanza 85/2023: La presente Ordenanza regirá el procedimiento a aplicar respecto del inmueble a incorporarse al Programa Lotes con Servicios previsto en la Ley Provincial N° 14.449 y su reglamentación aprobada por Decreto N° 1062/13.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9803/contents/1990697",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9803/contents/1990697",
+     "sha256": "9ba8cb4f35d6d07cca3b89e7189c478d3b2e843145b8dac1c031356b97599236"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-1-2024",
+   "short": "Ordenanza 1/2024",
+   "title": "Ordenanza 1/2024: Sanciónese y pónese en vigencia el Presupuesto de Gastos y el Cálculo de Recursos para el Ejercicio Económico 2024 en un todo de acuerdo con la Reforma de la Administración Financiera en el Ámbito Municipal (R.A.F.A.M.).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10225/contents/2023960",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 23,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10225/contents/2023960",
+     "sha256": "a60d0339f63f6fec50a61b9ea7f045f8e1dd69ec92326a4f10a80229ae7171c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2-2024",
+   "short": "Ordenanza 2/2024",
+   "title": "Ordenanza 2/2024: Convalidar el Decreto Nº 2559/2023, el cual modifica valores a percibir por la venta de alimentos y combos en la entrada del Cine Teatro Español, a partir del 15 de diciembre de 2023. --",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10225/contents/2023961",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10225/contents/2023961",
+     "sha256": "80958e1a71798249ac0f8a5ffa7690f69cd1f9ee4df442572fb6abbc415595d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5-2024",
+   "short": "Ordenanza 5/2024",
+   "title": "Ordenanza 5/2024: Convalidar el Contrato de Comodato suscripto entre la Municipalidad de General Belgrano y la Diócesis de Chascomús representada por Monseñor Carlos Humberto Malfa, con fecha 18 de noviembre de 2023.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10225/contents/2023972",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10225/contents/2023972",
+     "sha256": "e9d9a4ebfefe1dbeca4ffb2fe128450999b0717f87c50bc22f31083528e31d32"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10-2024",
+   "short": "Ordenanza 10/2024",
+   "title": "Ordenanza 10/2024: Condonar la deuda IMPUESTO DE PATENTE AUTOMOTOR del vehículo identificado con el dominio LAM380, hasta el 31 de diciembre de 2023.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059911",
+   "versions": [
+    {
+     "from": "2024-06-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059911",
+     "sha256": "a8ebc4c6cc0b34ef4628a09b80e4d5e6166f688fe59b8b8cfa44c69aef6660f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11-2024",
+   "short": "Ordenanza 11/2024",
+   "title": "Ordenanza 11/2024: Condonar la deuda de tasa sum hasta el 31 de diciembre de 2023 del inmueble con nomenclatura catastral Circ I sección C manzana 18D parcela 16; identificado bajo la cuenta 356000 perteneciente a la Asociación Iglesia de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059912",
+   "versions": [
+    {
+     "from": "2024-06-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059912",
+     "sha256": "08719696f9e99d6324627c599dcb63a9c10c2da560c5fc46ec7f5ecad051157b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-13-2024",
+   "short": "Ordenanza 13/2024",
+   "title": "Ordenanza 13/2024: Convalidar el Convenio N° 1257/2023, suscripto entre el Ministerio de Salud de la Pcia. de Buenos Aires y la Municipalidad de General Belgrano con fecha 8 de mayo de 2023.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059914",
+   "versions": [
+    {
+     "from": "2024-06-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059914",
+     "sha256": "ee26b4bc7edf3f75801e4a1e861e265c6bb2104020157b08dd06ea619a42f072"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-15-2024",
+   "short": "Ordenanza 15/2024",
+   "title": "Ordenanza 15/2024: Convalidar el Decreto Nº 200/2024, el cual modifica valores a percibir por la venta de alimentos y combos en la entrada del Cine Teatro Español, a partir del 5 de enero de 2024. --",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059916",
+   "versions": [
+    {
+     "from": "2024-06-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059916",
+     "sha256": "bf178e9f42986a7acb5906fc72d0bc8f994ab3d48e93064e391c4bdf53de718a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-25-2024",
+   "short": "Ordenanza 25/2024",
+   "title": "Ordenanza 25/2024: Condonar la deuda de tasa sum del inmueble con nomenclatura catastral Circ I sección G Manzana 59N Parcela 28; identificado bajo la cuenta 963100 para el período 2023 perteneciente a la Agrupación Deportiva El Salado.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059926",
+   "versions": [
+    {
+     "from": "2024-06-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059926",
+     "sha256": "0796687db1a1824118d5ba89d29f4d1c8b6e1ade6174ded7147e5f5e09e2bfb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-28-2024",
+   "short": "Ordenanza 28/2024",
+   "title": "Ordenanza 28/2024: Convalidar el Convenio de Uso Precario N° 206/2024 suscripto entre el Centro Cultural General Belgrano y la Municipalidad de General Belgrano, para el uso gratuito del inmueble lindero al de su sede por el plazo comprend",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059929",
+   "versions": [
+    {
+     "from": "2024-06-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10719/contents/2059929",
+     "sha256": "40e1034e481aa11b5aaba5e180328db0793251ff0cf2c2bb19399f79275deb7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-33-2024",
+   "short": "Ordenanza 33/2024",
+   "title": "Ordenanza 33/2024: El Departamento Ejecutivo Municipal de General Belgrano deberá responder por escrito a los pedidos de informe realizados por el Honorable Concejo Deliberante en un plazo máximo de 90 (noventa) días corridos a partir de l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10855/contents/2071897",
+   "versions": [
+    {
+     "from": "2024-07-06",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10855/contents/2071897",
+     "sha256": "cb380569f99804e0d392dd30167ef5385d50b43d26b01a0b8dbe30cab6b99306"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-39-2024",
+   "short": "Ordenanza 39/2024",
+   "title": "Ordenanza 39/2024: Establecer la prohibición de circulación de vehículos de tránsito pesado en el camino Municipal denominado Camino del Cementerio (se acompaña como Anexo 1 y 2 Croquis Satelital y Croquis Parcelario de dicho camino), de a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134242",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134242",
+     "sha256": "b807c410fdab898ce0fc4887392466111c5236e58da17ea154fb728712a42072"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-42-2024",
+   "short": "Ordenanza 42/2024",
+   "title": "Ordenanza 42/2024: Condonar la deuda de tasa sum del inmueble con nomenclatura catastral Circ I sección G Manzana 59N Parcela 28; identificado bajo la cuenta 963100 hasta el período 2023 perteneciente a la Agrupación Deportiva El Salado.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134267",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134267",
+     "sha256": "92d96c7ea4afa5a65b65683967d0120c0dbe40965a56d6fca1c1dabcbbf08fca"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-43-2024",
+   "short": "Ordenanza 43/2024",
+   "title": "Ordenanza 43/2024: Autorizar al Departamento Ejecutivo a otorgar la concesión de uso a la Sra. Sowycz, Patricia, DNI: 17.154.000 del bien propiedad de la Municipalidad de General Belgrano:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134277",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134277",
+     "sha256": "a3b6aa3643a1bd1f4b5456c6fa0963e7f49ea8130084117b861ae97e1bdcdb79"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-44-2024",
+   "short": "Ordenanza 44/2024",
+   "title": "Ordenanza 44/2024: Establézcase que la Secretaría de Cultura, Deporte y Educación deberá contar con un sistema itinerante de eventos culturales y/o recreativos, con el objetivo de acercar mensualmente propuestas tales como tardes de cine, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134288",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134288",
+     "sha256": "0853405eb72a67f363fcb360e5d875063178bfc0f7aebfbc21011060b27f300d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-47-2024",
+   "short": "Ordenanza 47/2024",
+   "title": "Ordenanza 47/2024: Afectar a un Plan de Viviendas de ocupación única, unifamiliar y de ocupación permanente, en los términos establecidos en el Artículo 159°, inciso F de la Ley Orgánica de las Municipalidades - Decreto Ley N° 6769/1958 y ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2136265",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2136265",
+     "sha256": "cb6ddbb49dbc4ef3f1a365764b2acdd59c43a5f6eb69d2dc59bdc0634e3d94cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-50-2024",
+   "short": "Ordenanza 50/2024",
+   "title": "Ordenanza 50/2024: Condonar la deuda de la tasa por Inspección de Seguridad e Higiene e intereses correspondientes a la cuenta C-269300 hasta el período 2022 perteneciente a Club de los Abuelos de General Belgrano.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134315",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134315",
+     "sha256": "c956516d11a6dde1587c2bd1e91e8e78f9e0be06efa113f63ce283f3862db3a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-52-2024",
+   "short": "Ordenanza 52/2024",
+   "title": "Ordenanza 52/2024: Aceptar la cesión efectuada por la Sra. Emilia Ester Arredondo mediante plano de Subdivisión 036-25-2023.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134327",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134327",
+     "sha256": "2bbde9b1d6a03d7eeab3bcaea886a6f3a8f748b0604d1725cc3d2faec0b94d05"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-53-2024",
+   "short": "Ordenanza 53/2024",
+   "title": "Ordenanza 53/2024: Modificar el artículo 1º de la ordenanza Nº 39/2024 el que quedará redactado de la siguiente manera: “Establecer la prohibición de circulación de vehículos de tránsito pesado en el Acceso principal a la localidad de Gorc",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134330",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134330",
+     "sha256": "f33546051c1c585371203b4bc0fd34d22aa4682aa42a26c85f338a4ba4e1f9d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-54-2024",
+   "short": "Ordenanza 54/2024",
+   "title": "Ordenanza 54/2024: Invertir el sentido de circulación actual de la calle 10 (Maggi) entre 15 (San Martin) y 13 (Lavalle).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134336",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134336",
+     "sha256": "d87adf9d90dcb34e412459162b1bfd5bb3fe2c8f2324e4d42d6c182bf418ab16"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-55-2024",
+   "short": "Ordenanza 55/2024",
+   "title": "Ordenanza 55/2024: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la Secretaría General de Gobierno de la Pcia. de Buenos Aires a la Municipalidad de General Belgrano, de los vehículos Ford Ranger – Dominio FTM693 ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134474",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134474",
+     "sha256": "dbec979699a5e0a07c5e8706353b25570bce1be50ce60b6fe0a994f7d9ecfd7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-56-2024",
+   "short": "Ordenanza 56/2024",
+   "title": "Ordenanza 56/2024: Convalidar el Decreto N° 1236/2024 dictado por el Departamento Ejecutivo, que incorpora en el Artículo 9, inciso c) de la Ordenanza de Presupuesto 2024 - Bonificación por tareas riesgosas, la actividad: “Verificación de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134488",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134488",
+     "sha256": "6e4dc780b71767b1e03f95bc7b8ba5fe0abc02695a585c8d813302f2540a22b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-57-2024",
+   "short": "Ordenanza 57/2024",
+   "title": "Ordenanza 57/2024: Convalidar el Decreto N° 1520/2024, el cual modifica valores a percibir por la venta de alimentos y combos en la entrada del Cine Teatro Español, a partir del 19 de julio de 2024.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134579",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134579",
+     "sha256": "f1454c8225ec59b2f996f5089b80f959f30fd1e0b800e89a9a9f1b5438442dfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-62-2024",
+   "short": "Ordenanza 62/2024",
+   "title": "Ordenanza 62/2024: Colóquese una placa recordatoria con el nombre Dr. JORGE OMAR MORENO en reconocimiento de su activa y destacada labor en la recordada gesta popular denominada “El Pueblazo”.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134613",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134613",
+     "sha256": "c18610bc48290b3029c432f3b641abd55378431f304d03be0aa6c3a2e54cfdd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-64-2024",
+   "short": "Ordenanza 64/2024",
+   "title": "Ordenanza 64/2024: Condonar la deuda de tasa SUM hasta el 31 de diciembre de 2023 del inmueble con nomenclatura catastral Circ I Sección D Quinta 40 Manzana 40d Parcela 12; identificado bajo la cuenta 406300.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2136261",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2136261",
+     "sha256": "728523a0f86c181670c0e242b956c331c06a12471ac81f44ff263b5695ed2744"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-65-2024",
+   "short": "Ordenanza 65/2024",
+   "title": "Ordenanza 65/2024: Condonar la deuda de tasa SUM a partir de cuota 1/2019 hasta el 31 de diciembre de 2023 del inmueble con nomenclatura catastral Circ I Sección D Manzana 56a Parcela 4; identificado bajo la cuenta 502500.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2136262",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2136262",
+     "sha256": "12229bd413e084861a4ca74cdce2b5bf95cc8797906a33a15e5047102cfaac6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-68-2024",
+   "short": "Ordenanza 68/2024",
+   "title": "Ordenanza 68/2024: Crear el Observatorio Vial Municipal de la Ciudad de General Belgrano, en el ámbito del Poder Ejecutivo Municipal. Dicha dependencia estará destinada a la recopilación de datos del tránsito de nuestra ciudad, a la invest",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134644",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134644",
+     "sha256": "83c9ebab78f0904ed1197c67b176f10cee5d093472a48c5333f40bbcc6ed50db"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-70-2024",
+   "short": "Ordenanza 70/2024",
+   "title": "Ordenanza 70/2024: Disponer la caducidad de la adjudicación original de la vivienda Nº 06 del Barrio Testa, que oportunamente fuera otorgada a la Sra Nélida Beatriz Contreras como titular, por los fundamentos que anteceden.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134667",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2134667",
+     "sha256": "19a2b552652b61bcfedc4122afc4f4c23089141e63f659ab1143806266cf120f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-74-2024",
+   "short": "Ordenanza 74/2024",
+   "title": "Ordenanza 74/2024: Convalidar el Convenio de colaboración N°562/2024 suscripto el día 22 del mes de mayo 2024, entre la Municipalidad de General Belgrano y Reginald Lee S.A de una “Estación de Reciclaje”.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2135266",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11667/contents/2135266",
+     "sha256": "528514b22ae8aed35f011308709b044edd283cfe9635e74f5bff6d1e8d12f480"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3-2025",
+   "short": "Ordenanza 3/2025",
+   "title": "Ordenanza 3/2025: Apruébese el Plan de Ordenamiento Urbano y Territorial del Partido de General Belgrano y el Código de Ordenamiento Urbano y Territorial con todas sus partes constitutivas, que como los siguientes anexos forman parte de l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12211/contents/2180575",
+   "versions": [
+    {
+     "from": "2025-03-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12211/contents/2180575",
+     "sha256": "2ffbc2b4e647f1f53f7ad13440ed31416faece1d2e6b957ceb928f63c8571970"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-13-2025",
+   "short": "Ordenanza 13/2025",
+   "title": "Ordenanza 13/2025: Convalidar el Convenio Nº 342/2025, suscripto entre el Ministerio de Ambiente de la Provincia de Buenos Aires y la Municipalidad de General Belgrano, el día 26 del mes de febrero 2025, en el cual acuerdan políticas de ed",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234272",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234272",
+     "sha256": "1c75ebc6cfe6efb375e2e3ab923e7316c25e1501b1d881a2bd22186e2f5554d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-16-2025",
+   "short": "Ordenanza 16/2025",
+   "title": "Ordenanza 16/2025: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la Sra. Julieta Cecilia Di Matteo D.N.I. N°28.648.716 de: un aire acondicionado Marca “PHILCO” – Modelo PHS32C52E – Split – Refrigeración 3200W, usa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234283",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234283",
+     "sha256": "ace5fc5f8b0d81d619fcf0ee0c03a2fe25978659997d45ffb67c01d10b9513b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-17-2025",
+   "short": "Ordenanza 17/2025",
+   "title": "Ordenanza 17/2025: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por los Sres. Pedro Edgardo Moriset D.N.I. N°5.216.788 y Ubaldo Daniel Bonnefon D.N.I. N°5.083.162 de: cuatro calefactores Marca “CTZ” – Modelo 2500 cal",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234287",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234287",
+     "sha256": "b3afddb5634d01ba917c17a49b8e417366e3aa550f651c0030d0d4a0ae956259"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-19-2025",
+   "short": "Ordenanza 19/2025",
+   "title": "Ordenanza 19/2025: Encomendar al Dpto. Ejecutivo para que, durante los meses en que se encuentre abierta la pileta municipal, determine y señalice un sentido único de estacionamiento en la calle 60 entre 137 y 139 de nuestra ciudad.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234298",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234298",
+     "sha256": "a70190c2ad662ce1bee770a74d0e034f8aa306e60a92c50708d1008abdd9b155"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-20-2025",
+   "short": "Ordenanza 20/2025",
+   "title": "Ordenanza 20/2025: Condonar la deuda del IMPUESTO DE PATENTE AUTOMOTOR correspondiente a los períodos 03/2024 a 04/2024 del vehículo identificado con el dominio LEI 450 – Cta. 5600060695.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234303",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234303",
+     "sha256": "2243bc6b3014ff6b98a81a773ea287b792b7c3be52151a98b7da5824bf556abc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-21-2025",
+   "short": "Ordenanza 21/2025",
+   "title": "Ordenanza 21/2025: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la Secretaría General de Gobierno de la Pcia. de Buenos Aires a la Municipalidad de General Belgrano, de los vehículos marca Renault – Dominio GKB30",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234305",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234305",
+     "sha256": "b8b2bcfebaa539a6db31b0d564afaa56b1b551d7335f4ade4858a73b5040306d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-22-2025",
+   "short": "Ordenanza 22/2025",
+   "title": "Ordenanza 22/2025: Adhiérase el Municipio de General Belgrano, en el marco de sus competencias, a la Ley Provincial N.º 13.074 y a sus modificatorias introducidas por la Ley N.º 15.520, referidas al funcionamiento y alcance del Registro de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234310",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12932/contents/2234310",
+     "sha256": "0485bd7ebbff91c5751ad3a776fa6928eb7991a231b6e13a73116a80f7dc1dd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-24-2025",
+   "short": "Ordenanza 24/2025",
+   "title": "Ordenanza 24/2025: Autorizar al Departamento Ejecutivo a suscribir un Convenio de Adhesión con el Ministerio de Seguridad de la Nación, en el marco del Programa Nacional de Descontaminación, Compactación y Disposición Final de Automotores ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14090/contents/2324635",
+   "versions": [
+    {
+     "from": "2025-12-26",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14090/contents/2324635",
+     "sha256": "cb4c07adf186754bd382fbd717d652f4f247cec59d26b642cc256f1bbc496d7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-27-2025",
+   "short": "Ordenanza 27/2025",
+   "title": "Ordenanza 27/2025: Convalidar el Decreto Nº 1013/2025 dictado por el Departamento Ejecutivo, que faculta a la Dirección de Recursos Humanos a realizar las liquidaciones, a partir del mes de mayo de 2025, del personal docente temporario que",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14090/contents/2324641",
+   "versions": [
+    {
+     "from": "2025-12-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14090/contents/2324641",
+     "sha256": "2fc347fbffe7dbaf7eab960d35a48fe891d27f0a5cc719ca126a98666f2aec95"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-28-2025",
+   "short": "Ordenanza 28/2025",
+   "title": "Ordenanza 28/2025: OBJETO. Es objeto de la presente ordenanza la tutela de la salubridad pública del Partido de General Belgrano, mediante la prevención, control y reducción de la contaminación acústica y ambiental que afecta la salud de l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14090/contents/2324652",
+   "versions": [
+    {
+     "from": "2025-12-26",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14090/contents/2324652",
+     "sha256": "9a8eccbddd94b7c8facb304236d676bc2268151f11a76ec242a019cb75f926dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-30-2025",
+   "short": "Ordenanza 30/2025",
+   "title": "Ordenanza 30/2025: Autorizar la transferencia de dominio de los lotes de terreno ubicados en la intersección de las calles 121 y 56 con nomenclatura catastral Circunscripción l; Sección E, Chacra 31, Manzana 31k, Parcelas 23 y 24; identifi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14090/contents/2324663",
+   "versions": [
+    {
+     "from": "2025-12-26",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14090/contents/2324663",
+     "sha256": "d3b036dea4ed760ad1dc47b0b001a0b97a72c9cbc838d97cfbf2ceeee0094c05"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-34-2025",
+   "short": "Ordenanza 34/2025",
+   "title": "Ordenanza 34/2025: Se prohíbe de manera total y permanente el estacionamiento de vehículos de cualquier tipo en las veredas y áreas parquizadas que se encuentran en las cercanías del Centro referencial para talleres municipales y actividad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14100/contents/2325605",
+   "versions": [
+    {
+     "from": "2025-12-27",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14100/contents/2325605",
+     "sha256": "3ed1c3f03ee8dfde92811a7610d2231ae3e3fd83fc727c84b9a6656c47344f72"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-1-2026",
+   "short": "Ordenanza 1/2026",
+   "title": "Ordenanza 1/2026: Convalidar el Decreto N° 2372/2025, el cual modifica valores a percibir por la venta de alimentos y combos en la entrada del Cine Teatro Español, a partir del 3 de diciembre de 2025.--",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355464",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355464",
+     "sha256": "7893b47acb5060af5e5641bf84ebb555bb7a72a0fa2bf2e1995e720206f69dba"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-36-2026",
+   "short": "Ordenanza 36/2026",
+   "title": "Ordenanza 36/2026: Autorizar al Departamento Ejecutivo a celebrar con Provincia Leasing S.A. contrato/s de leasing en forma de contratación directa de conformidad a lo establecido por el Art. 156 inc. 2 de la ley orgánica de las Municipali",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355091",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355091",
+     "sha256": "9872ae30e967ffe873e1bf42ca1dff29df68596242b865d6c51e18c94f63a701"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-37-2026",
+   "short": "Ordenanza 37/2026",
+   "title": "Ordenanza 37/2026: Convalidar el Convenio N° 888/2025, suscripto entre el Instituto de la Vivienda de la Provincia de Buenos Aires y la Municipalidad de General Belgrano, por el que el IVPBA prestará asistencia financiera para la terminaci",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355099",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355099",
+     "sha256": "113421cd1984e421793eaf6b289a6f1bf28f5de41bce9a6d5cc7b44813bc9884"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-41-2026",
+   "short": "Ordenanza 41/2026",
+   "title": "Ordenanza 41/2026: Autorizar el cambio destino del Convenio N° 587/2024, suscripto en la Municipalidad de General Belgrano y la empresa G y C Construcciones S.A., destinado a la entrega de 120m3 de hormigón H30 y los fondos asociados a la ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355427",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355427",
+     "sha256": "f45bd07f87ea2925274a8965f52d13fd3f1cc7a138a512c4eba6e75ba609cd53"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-42-2026",
+   "short": "Ordenanza 42/2026",
+   "title": "Ordenanza 42/2026: Convalidar el Convenio N° 951/2025 de Autorización de Loteo e Interdicción de Lotes celebrado entre la Municipalidad de General Belgrano y los Sres. Juan Martin Puyssegur, Víctor Luis Galletti y Diego Sergio Quiles, resp",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355429",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355429",
+     "sha256": "bb6614dbfb1a7e43155855f2c6012ff8a7752ec0d0e59ff1fbce799a14ce878f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-43-2026",
+   "short": "Ordenanza 43/2026",
+   "title": "Ordenanza 43/2026: Autorizar al Departamento Ejecutivo a vender en forma directa a la Sra. María Julia Villa, DNI 31.599.792 y el Sr. Nicolás Rosas DNI 31.168.542 el inmueble de propiedad Municipal identificado catastralmente como Circunsc",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355430",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355430",
+     "sha256": "2c4ecb7f749f3e42a27a33c389eb0cc5910049e4e1ff3a526e10a0913443d226"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-44-2026",
+   "short": "Ordenanza 44/2026",
+   "title": "Ordenanza 44/2026: Establecer el sentido único de circulación de la calle 29, con dirección desde Avenida 9 de Enero hasta Avenida Sarmiento.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355432",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355432",
+     "sha256": "0569c6eeb7d5b697d47a5a3530201ac6da4bff10774a3d3880d02b5dd2d0ebcb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-45-2026",
+   "short": "Ordenanza 45/2026",
+   "title": "Ordenanza 45/2026: Prohíbese la circulación de motovehículos en el interior del Parque “Mateo Bruzzo” del Balneario Nuevo de la ciudad de General Belgrano.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355433",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355433",
+     "sha256": "8e5cc79d460c13bce0230e78359e2f0ba295dfd2f82682f04b28b0c1bbc3e2d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-47-2026",
+   "short": "Ordenanza 47/2026",
+   "title": "Ordenanza 47/2026: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por el Sr. Barrionuevo, Daniel Omar D.N.I. N°18.221.205 de: un sillón odontológico Marca “GNATUS” – Serie N°0826223017, usado y en buenas condiciones; e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355436",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355436",
+     "sha256": "6da898954d0d743ed08424d760c329ef09146a9f3a40c72b93b7a8d90cee9391"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-48-2026",
+   "short": "Ordenanza 48/2026",
+   "title": "Ordenanza 48/2026: Créase la \"MESA LOCAL INTERSECTORIAL para la prevención, abordaje y salida de las violencias por razones de género en el ámbito de la Municipalidad de General Belgrano.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355437",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355437",
+     "sha256": "8b4cd17307fc99e5ebf8ce124bb1124b39bb425b667074d6ab69abbaf8f92bad"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-49-2026",
+   "short": "Ordenanza 49/2026",
+   "title": "Ordenanza 49/2026: Convalidar el Decreto Nº 1558/2025, el cual modifica valores a percibir por la venta de alimentos y combos en la entrada del Cine Teatro Español, a partir del 22 de julio de 2025. --",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355438",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355438",
+     "sha256": "503d0d9e738bc42b9873d095f3f5c001f235210361df9e65dd90e4f817ee20c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-51-2026",
+   "short": "Ordenanza 51/2026",
+   "title": "Ordenanza 51/2026: Autorizar al Departamento Ejecutivo a mantener en el presupuesto vigente y en los futuros los fondos necesarios para afectarlos al pago del alquiler de una vivienda en la ciudad de La Plata, que es utilizada por estudian",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355440",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355440",
+     "sha256": "941e5089fed746de2594a8732cc4a656c21fc43753c4f08a1a530b37ce47e6eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-53-2026",
+   "short": "Ordenanza 53/2026",
+   "title": "Ordenanza 53/2026: Aceptar la institución como heredera universal con cargo bajo condición resolutoria del inmueble ubicado en Sección Quintas de esta ciudad, prolongación de Avenida Libertad, denominado “Vergel” Nomenclatura Catastral: Ci",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355443",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355443",
+     "sha256": "daa231eb195a589f550b6b59a129c18bd2813f01a8e2e3386d9dd52b8a4e7cc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-55-2026",
+   "short": "Ordenanza 55/2026",
+   "title": "Ordenanza 55/2026: Autorizar al Departamento Ejecutivo a aceptar la Donación realizada por la Sra. Cristina Beatriz González - DNI N°22.229.620, Javier Anibal González -DNI N°22.229.620; y Gabriela Adriana González - D.N.I. N°20.213.643 de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355446",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355446",
+     "sha256": "00ae97f0927c6cecdf5d27712ecd6a897e99315386eb08197b584022799a5cbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-56-2026",
+   "short": "Ordenanza 56/2026",
+   "title": "Ordenanza 56/2026: Convalidar el Decreto Nº 2130/2025, por el cual se establecen los nuevos valores a percibir por el acceso y uso de la pileta abierta, durante la temporada 2025-2026.--",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355448",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355448",
+     "sha256": "917d8855cda0f02b1b9b6e2ef418fc70e09bfcc8fd52782d223edf041b643c9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-60-2026",
+   "short": "Ordenanza 60/2026",
+   "title": "Ordenanza 60/2026: Convalidar el Decreto Nº 2134/2025 y 2299/2025, que aprueba el ESTATUTO DEL DOCENTE MUNICIPAL DE GENERAL BELGRANO, para el personal municipal docente que se desempeñe en el Jardín Maternal Emanuelle – DIEGEP 8804, el cua",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355455",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355455",
+     "sha256": "a43e04fd632591f84eb9bf2a87f5d5114daad56e4f8ebaf1cc1fea359eb00de5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-61-2026",
+   "short": "Ordenanza 61/2026",
+   "title": "Ordenanza 61/2026: Impóngase el nombre \"Papa Francisco: ¡Hagan Lío!\" al espacio verde de la Plaza 1° de Agosto comprendido entre la intersección de la Avenida San Martín y calle Saavedra y la calle Estrada.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355456",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355456",
+     "sha256": "5fa06bcde4e4b8cbdef7ca5dd8f765a26f39b01933f93362c6421ecd6f867bad"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-63-2026",
+   "short": "Ordenanza 63/2026",
+   "title": "Ordenanza 63/2026: Crease un Fondo de Lucha Contra el Control de Plagas, que se compondrá de un porcentaje a determinar en la Ordenanza Fiscal e Impositiva del próximo ejercicio 2026 a partir de lo recaudado por el Municipio en concepto de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355460",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355460",
+     "sha256": "aae58c01429079c7ec0576b2c9efdb2b63ee1c51da09c400db043e9e9b29f3de"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-65-2026",
+   "short": "Ordenanza 65/2026",
+   "title": "Ordenanza 65/2026: Adhiérase a la Ley Provincial N° 15.553 de “No Corte de Servicios Esenciales”, por su aporte a la protección de los derechos de las instituciones públicas, asociaciones civiles sin fines de lucro y usuarios bonaerenses.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355462",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355462",
+     "sha256": "30f781d98eb88ddb4c0a46be5345a2818a3de58f17c6f92dafb1ea81f69c2137"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-66-2026",
+   "short": "Ordenanza 66/2026",
+   "title": "Ordenanza 66/2026: Declarar de utilidad pública y de pago obligatorio, bajo la modalidad de “Contribución por Mejoras”, para los vecinos frentistas y/o poseedores a título de dueño de los inmuebles afectados a las siguientes obras:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355463",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 12,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14432/contents/2355463",
+     "sha256": "1eada27a4db274cf0872eb3f5c6ea1c54602bf96dd2f69fd3ca2d90a99165570"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-008-2026",
+   "short": "Ordenanza 008/2026",
+   "title": "Ordenanza 008/2026: Convalidar el Convenio Nº 1330/2025, suscripto el día 5 de diciembre de 2025, entre la Municipalidad de General Belgrano y la Autoridad del Agua de la Pcia. de Buenos Aires cuyo objeto es articular con el organismo provi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15685/contents/2437235",
+   "versions": [
+    {
+     "from": "2026-09-05",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15685/contents/2437235",
+     "sha256": "a483a8ac3ae7a0f6131ebc18d3149b35a8d21d5fffbc93d39f49cf3db126092a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-009-2026",
+   "short": "Ordenanza 009/2026",
+   "title": "Ordenanza 009/2026: Exímase de manera permanente del pago de todas las tasas, derechos o contribuciones municipales vigentes o que en el futuro se establezcan, que graven la tierra, parcelas, sepulturas, nichos o cualquier otro espacio del ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15685/contents/2437237",
+   "versions": [
+    {
+     "from": "2026-09-05",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15685/contents/2437237",
+     "sha256": "182f6ca01f0d4710591f1ffc78e4bb2af048ab650035082da8b6008e5b8b97d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-14-2026",
+   "short": "Ordenanza 14/2026",
+   "title": "Ordenanza 14/2026: Convalidar el Decreto Nº 829/2026, que aprueba las transferencias de partidas en el Presupuesto de Gastos 2026 por la suma de Pesos Catorce Millones Quinientos Veintiocho Mil Cuatrocientos Diez ($ 14.528.410,00), destina",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439742",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439742",
+     "sha256": "1176379be34e3d0117db0af528e4b49e37dd82f988229ec6d50e3c4422c5f8a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-15-2026",
+   "short": "Ordenanza 15/2026",
+   "title": "Ordenanza 15/2026: Autorizase en la ciudad de General Belgrano el tránsito por la vía pública de dispositivo de movilidad personal, entiéndase por dispositivo de movilidad personal los vehículos de una o más ruedas dotados de una única pla",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439745",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439745",
+     "sha256": "8fa1b1d9df3507bf3a132653555bd4d80b62121ca840cbbe39337bd46d9c2d07"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-18-2026",
+   "short": "Ordenanza 18/2026",
+   "title": "Ordenanza 18/2026: Dispóngase la realización de una campaña municipal de concientización sobre la donación de órganos, tejidos y células, en el marco del Día Nacional de la Donación de Órganos, a conmemorarse el día 30 de mayo de cada año.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439757",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439757",
+     "sha256": "f019998b70f0a4f9e435b0bd009c325073115b9eb286dcef6f8a234568bb855b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-24-2026",
+   "short": "Ordenanza 24/2026",
+   "title": "Ordenanza 24/2026: la incorporación del Índice de Crianza como parámetro orientador en las intervenciones realizadas por las áreas municipales competentes, en particular:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439778",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439778",
+     "sha256": "42ac36169dcd6fc3ac3e043b71df2bb15e6c38187fa4fce32c5005a78727bc39"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-25-2026",
+   "short": "Ordenanza 25/2026",
+   "title": "Ordenanza 25/2026: Dispóngase que el Departamento Ejecutivo Municipal, a través del área que corresponda, diseñe e implemente campañas de concientización, sensibilización y difusión en el marco del “3 de Junio – Ni Una Menos”.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439783",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439783",
+     "sha256": "171c471c57fb5db79982fbacd13d25ee9ad50a34b8185d7c057f0dd94abdbcef"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-28-2026",
+   "short": "Ordenanza 28/2026",
+   "title": "Ordenanza 28/2026: Convalidar el Convenio Nº 786/2026, suscripto el día 20 de mayo de 2026, entre la Municipalidad de General Belgrano y el Ministerio de Infraestructura y Servicios Públicos de la Pcia. de Buenos Aires, en cumplimiento a l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439806",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439806",
+     "sha256": "53fc068292e667dbf920c91bbb13196c52c1e3cf44cf108ba378ea7c98766be0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-29-2026",
+   "short": "Ordenanza 29/2026",
+   "title": "Ordenanza 29/2026: Prohíbase el estacionamiento de vehículos sobre la calle 29, en el tramo comprendido entre las calles 6 y 10, en el sector que determine la autoridad de aplicación mediante la correspondiente señalización.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439814",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15691/contents/2439814",
+     "sha256": "02da8ab4d7b259575dd73b9a9fcb4f0ed16b1b43cb5901ba657c56ab0b5d7264"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-034-2026",
+   "short": "Ordenanza 034/2026",
+   "title": "Ordenanza 034/2026: Condonar la Señora Barrionuevo, Stella M. la Tasa SUM para el período 2024. del inmueble Nomenclatura Catastral: Circunsc. 1; Sección. D; Manzana 51 B; Parcela: 3;Cuenta N° 481400.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15908/contents/2455458",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15908/contents/2455458",
+     "sha256": "f482ee984e86bcb3c9211b76b68a49e5ec1ee3af5913e0c434a69676ab8481f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-035-2026",
+   "short": "Ordenanza 035/2026",
+   "title": "Ordenanza 035/2026: Solicítese al Departamento Ejecutivo a través de la Secretaria de CULTURA, DEPORTE Y EDUCACION de General Belgrano, se implementen mecanismos que promuevan la participación de artistas locales y garantizar la paridad de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15908/contents/2455468",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15908/contents/2455468",
+     "sha256": "d40d8196dda2620208736a6b91774867e6bbed7d5d99e212eb735d57a8ff92f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-036-2026",
+   "short": "Ordenanza 036/2026",
+   "title": "Ordenanza 036/2026: Convalidar el Convenio Marco N° 838/2026, suscripto entre la Municipalidad de General Belgrano y la Universidad Nacional de San Antonio de Areco, con fecha 5 de junio de 2026, cuyo objetivo es coordinar proyectos académi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15908/contents/2455477",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15908/contents/2455477",
+     "sha256": "e63d120c3c62cb2d1f814792b7f4ba7a0623ae0ab03f426d67eb0cbe8e7be244"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-037-2026",
+   "short": "Ordenanza 037/2026",
+   "title": "Ordenanza 037/2026: Convalidar el Convenio Específico N° 845/2026, suscripto entre la Municipalidad de General Belgrano y la Universidad Nacional de San Antonio de Areco, con fecha 5 de junio de 2026, cuyo objetivo es la habilitación del di",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15908/contents/2455507",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15908/contents/2455507",
+     "sha256": "c9c9b4ab5d5ef1441389a3e9cec2c487c2923f14b4439811740d8e4ec5621caf"
+    }
+   ]
+  }
+ ]
+}

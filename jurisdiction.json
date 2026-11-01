@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-general-belgrano",
+  "code": "AR-B-GENERAL-BELGRANO",
+  "name": "General Belgrano",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-general-belgrano-city-law",
+  "build": "built: municipal ordinances (198 ordinances, 198 versions) from https://sibom.slyt.gba.gob.ar/cities/47",
+  "language": "es",
+  "sources": 1
+}

@@ -1,0 +1,9 @@
+# Ordenanza 91/2022: Convalidar el Convenio N° 800/2022 de fecha 23 de agosto de 2022, suscripto entre la Municipalidad de General Belgrano y el Ministerio de Desarrollo Agrario de la Provincia de Buenos Aires, a los efectos de otorgar al Mu
+
+Ordenanza 91/2022 · 1 versions, from 2022-12-01 (latest in force: 2022-12-01) · <https://sibom.slyt.gba.gob.ar/bulletins/7835/contents/1801262>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |
